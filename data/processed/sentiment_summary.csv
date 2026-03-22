@@ -1,0 +1,4 @@
+sentiment,count,avg_sentiment_score,share_of_reviews_pct
+negative,18126,-4.03,43.37
+neutral,6108,-0.06,14.62
+positive,17556,2.39,42.01

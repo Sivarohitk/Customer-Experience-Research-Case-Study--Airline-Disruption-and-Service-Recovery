@@ -1,0 +1,37 @@
+theme,sentiment,count,share_within_theme_pct
+baggage problems,negative,3591,56.86
+baggage problems,positive,1380,21.85
+baggage problems,neutral,1345,21.3
+cancellation stress,negative,2705,84.9
+cancellation stress,positive,321,10.08
+cancellation stress,neutral,160,5.02
+customer support responsiveness,negative,431,82.1
+customer support responsiveness,neutral,54,10.29
+customer support responsiveness,positive,40,7.62
+delay frustration,negative,6193,75.52
+delay frustration,neutral,1210,14.76
+delay frustration,positive,797,9.72
+digital / app / website issues,negative,156,89.66
+digital / app / website issues,neutral,11,6.32
+digital / app / website issues,positive,7,4.02
+poor communication,negative,1633,71.59
+poor communication,positive,429,18.81
+poor communication,neutral,219,9.6
+pricing / compensation dissatisfaction,negative,503,86.13
+pricing / compensation dissatisfaction,neutral,41,7.02
+pricing / compensation dissatisfaction,positive,40,6.85
+rebooking friction,negative,663,81.25
+rebooking friction,positive,99,12.13
+rebooking friction,neutral,54,6.62
+refund difficulty,negative,1235,80.67
+refund difficulty,positive,166,10.84
+refund difficulty,neutral,130,8.49
+staff helpfulness,positive,4388,77.14
+staff helpfulness,negative,804,14.14
+staff helpfulness,neutral,496,8.72
+successful recovery experience,positive,88,60.69
+successful recovery experience,negative,37,25.52
+successful recovery experience,neutral,20,13.79
+trust / loyalty damage,negative,239,95.22
+trust / loyalty damage,neutral,9,3.59
+trust / loyalty damage,positive,3,1.2

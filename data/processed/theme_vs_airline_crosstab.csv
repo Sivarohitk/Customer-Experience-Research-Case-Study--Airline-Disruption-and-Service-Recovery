@@ -1,0 +1,2331 @@
+theme,airline,count,share_within_theme_pct
+baggage problems,Spirit Airlines,332,5.26
+baggage problems,Ryanair,190,3.01
+baggage problems,United Airlines,139,2.2
+baggage problems,Frontier Airlines,134,2.12
+baggage problems,British Airways,121,1.92
+baggage problems,Easyjet,119,1.88
+baggage problems,Jet Airways,104,1.65
+baggage problems,Wizz Air,103,1.63
+baggage problems,Vueling Airlines,100,1.58
+baggage problems,Allegiant Air,97,1.54
+baggage problems,Air Canada,95,1.5
+baggage problems,American Airlines,92,1.46
+baggage problems,Norwegian,85,1.35
+baggage problems,Jetstar Airways,82,1.3
+baggage problems,Southwest Airlines,78,1.23
+baggage problems,Sunwing Airlines,77,1.22
+baggage problems,Aer Lingus,75,1.19
+baggage problems,Us Airways,75,1.19
+baggage problems,Tap Portugal,74,1.17
+baggage problems,Airasia,72,1.14
+baggage problems,Emirates,70,1.11
+baggage problems,Delta Air Lines,65,1.03
+baggage problems,Turkish Airlines,65,1.03
+baggage problems,Etihad Airways,63,1.0
+baggage problems,Jet2 Com,63,1.0
+baggage problems,Air Berlin,61,0.97
+baggage problems,Monarch Airlines,60,0.95
+baggage problems,Lufthansa,59,0.93
+baggage problems,Air Transat,58,0.92
+baggage problems,Tigerair,57,0.9
+baggage problems,Flybe,55,0.87
+baggage problems,Alitalia,53,0.84
+baggage problems,Iberia,50,0.79
+baggage problems,Aegean Airlines,48,0.76
+baggage problems,Sas Scandinavian Airlines,48,0.76
+baggage problems,Thomas Cook Airlines,48,0.76
+baggage problems,Air Canada Rouge,47,0.74
+baggage problems,Icelandair,47,0.74
+baggage problems,Qantas Airways,47,0.74
+baggage problems,Virgin Atlantic Airways,47,0.74
+baggage problems,Klm Royal Dutch Airlines,46,0.73
+baggage problems,Qatar Airways,46,0.73
+baggage problems,Air France,44,0.7
+baggage problems,Airbaltic,43,0.68
+baggage problems,Virgin Australia,43,0.68
+baggage problems,Brussels Airlines,42,0.66
+baggage problems,Hawaiian Airlines,42,0.66
+baggage problems,Finnair,41,0.65
+baggage problems,Virgin America,41,0.65
+baggage problems,Airasia X,40,0.63
+baggage problems,China Eastern Airlines,40,0.63
+baggage problems,China Southern Airlines,40,0.63
+baggage problems,Garuda Indonesia,40,0.63
+baggage problems,Air New Zealand,39,0.62
+baggage problems,Alaska Airlines,39,0.62
+baggage problems,Ethiopian Airlines,39,0.62
+baggage problems,Swiss International Air Lines,39,0.62
+baggage problems,Thomson Airways,38,0.6
+baggage problems,Vietnam Airlines,38,0.6
+baggage problems,Air India,37,0.59
+baggage problems,Malaysia Airlines,37,0.59
+baggage problems,Philippine Airlines,36,0.57
+baggage problems,Aeroflot Russian Airlines,35,0.55
+baggage problems,Lan Airlines,35,0.55
+baggage problems,Royal Air Maroc,35,0.55
+baggage problems,Jetblue Airways,34,0.54
+baggage problems,Pegasus Airlines,34,0.54
+baggage problems,Air Europa,33,0.52
+baggage problems,South African Airways,33,0.52
+baggage problems,Tam Airlines,32,0.51
+baggage problems,Cathay Pacific Airways,31,0.49
+baggage problems,Condor Airlines,31,0.49
+baggage problems,Bangkok Airways,30,0.47
+baggage problems,Bmi British Midland International,30,0.47
+baggage problems,Kenya Airways,29,0.46
+baggage problems,Liat,29,0.46
+baggage problems,China Airlines,28,0.44
+baggage problems,Egyptair,28,0.44
+baggage problems,Scoot,28,0.44
+baggage problems,Air China,26,0.41
+baggage problems,Austrian Airlines,26,0.41
+baggage problems,Germanwings,26,0.41
+baggage problems,Eva Air,25,0.4
+baggage problems,Continental Airlines,24,0.38
+baggage problems,Aeromexico,23,0.36
+baggage problems,Ukraine International Airlines,23,0.36
+baggage problems,Srilankan Airlines,22,0.35
+baggage problems,Thai Airways,21,0.33
+baggage problems,Ana All Nippon Airways,20,0.32
+baggage problems,Nok Air,20,0.32
+baggage problems,Precision,20,0.32
+baggage problems,Avianca,19,0.3
+baggage problems,Cebu Pacific,19,0.3
+baggage problems,Porter Airlines,19,0.3
+baggage problems,Cityjet,18,0.28
+baggage problems,Csa Czech Airlines,18,0.28
+baggage problems,Fiji Airways,18,0.28
+baggage problems,Indigo Airlines,18,0.28
+baggage problems,Aerolineas Argentinas,17,0.27
+baggage problems,Copa Airlines,17,0.27
+baggage problems,Kuwait Airways,17,0.27
+baggage problems,Transavia,17,0.27
+baggage problems,Asiana Airlines,16,0.25
+baggage problems,El Al Israel Airlines,16,0.25
+baggage problems,Korean Air,16,0.25
+baggage problems,Singapore Airlines,16,0.25
+baggage problems,Volaris,16,0.25
+baggage problems,Air Serbia,15,0.24
+baggage problems,Jetstar Asia,15,0.24
+baggage problems,Lot Polish Airlines,15,0.24
+baggage problems,Oman Air,15,0.24
+baggage problems,Saudi Arabian Airlines,14,0.22
+baggage problems,Silkair,14,0.22
+baggage problems,Tarom Romanian Airlines,14,0.22
+baggage problems,Westjet,14,0.22
+baggage problems,Gulf Air,13,0.21
+baggage problems,Meridiana,13,0.21
+baggage problems,Air Malta,12,0.19
+baggage problems,American Eagle,12,0.19
+baggage problems,Royal Brunei Airlines,12,0.19
+baggage problems,Royal Jordanian Airlines,12,0.19
+baggage problems,Taca,12,0.19
+baggage problems,Dragonair,11,0.17
+baggage problems,Goair,11,0.17
+baggage problems,Regional Express,11,0.17
+baggage problems,Sun Country Airlines,11,0.17
+baggage problems,Air Koryo,10,0.16
+baggage problems,Cubana Airlines,10,0.16
+baggage problems,Flydubai,10,0.16
+baggage problems,Hainan Airlines,10,0.16
+baggage problems,Pia Pakistan International Airlines,10,0.16
+baggage problems,Spirit,10,0.16
+baggage problems,Tuifly,10,0.16
+baggage problems,Xl Airways France,10,0.16
+baggage problems,Air Tahiti Nui,9,0.14
+baggage problems,Alaska,9,0.14
+baggage problems,Croatia Airlines,9,0.14
+baggage problems,Firefly,9,0.14
+baggage problems,Malindo Air,9,0.14
+baggage problems,Niki,9,0.14
+baggage problems,Onur Air,9,0.14
+baggage problems,Spicejet,9,0.14
+baggage problems,United,9,0.14
+baggage problems,Air Algerie,8,0.13
+baggage problems,Ba Cityflyer,8,0.13
+baggage problems,Blue Air,8,0.13
+baggage problems,Blue Islands,8,0.13
+baggage problems,Bulgaria Air,8,0.13
+baggage problems,Hong Kong,8,0.13
+baggage problems,Lan Peru,8,0.13
+baggage problems,Santa Barbara,8,0.13
+baggage problems,Southwest,8,0.13
+baggage problems,Afriqiyah Airways,7,0.11
+baggage problems,Air Astana,7,0.11
+baggage problems,Aurigny Air,7,0.11
+baggage problems,Bmi Regional,7,0.11
+baggage problems,Caribbean Airlines,7,0.11
+baggage problems,Corsair,7,0.11
+baggage problems,Eastern Airways,7,0.11
+baggage problems,JetBlue,7,0.11
+baggage problems,Kulula,7,0.11
+baggage problems,Lion Air,7,0.11
+baggage problems,Olympic Air,7,0.11
+baggage problems,Openskies,7,0.11
+baggage problems,Qantaslink,7,0.11
+baggage problems,Rossiya Airlines,7,0.11
+baggage problems,Sa Express,7,0.11
+baggage problems,Vlm Airlines,7,0.11
+baggage problems,Wow Air,7,0.11
+baggage problems,Air Blue,6,0.09
+baggage problems,Air Mauritius,6,0.09
+baggage problems,Canjet Airlines,6,0.09
+baggage problems,Gol,6,0.09
+baggage problems,Insel Air,6,0.09
+baggage problems,Kam Air,6,0.09
+baggage problems,Luxair,6,0.09
+baggage problems,Transaero Airlines,6,0.09
+baggage problems,Adria Airways,5,0.08
+baggage problems,Air Nostrum,5,0.08
+baggage problems,American,5,0.08
+baggage problems,Arkefly,5,0.08
+baggage problems,Atlasjet Airlines,5,0.08
+baggage problems,Biman Bangladesh,5,0.08
+baggage problems,Comair,5,0.08
+baggage problems,Estonian Air,5,0.08
+baggage problems,Frontier,5,0.08
+baggage problems,Hong Kong Airlines,5,0.08
+baggage problems,Iran Air,5,0.08
+baggage problems,Japan Airlines,5,0.08
+baggage problems,Jetstar Pacific,5,0.08
+baggage problems,Mea Middle East Airlines,5,0.08
+baggage problems,Orient Thai,5,0.08
+baggage problems,Sata Air Azores,5,0.08
+baggage problems,Sata Internacional,5,0.08
+baggage problems,Shanghai Airlines,5,0.08
+baggage problems,Sichuan Airlines,5,0.08
+baggage problems,Sky Airline,5,0.08
+baggage problems,Skywest Airlines,5,0.08
+baggage problems,Smartwings,5,0.08
+baggage problems,Spring,5,0.08
+baggage problems,Aigle Azur,4,0.06
+baggage problems,Air Arabia,4,0.06
+baggage problems,Air Moldova,4,0.06
+baggage problems,Avior Airlines,4,0.06
+baggage problems,Azul Linhas Aereas Brasileiras,4,0.06
+baggage problems,Bluexpress,4,0.06
+baggage problems,Delta,4,0.06
+baggage problems,Eurowings,4,0.06
+baggage problems,Mango,4,0.06
+baggage problems,Phuket Air,4,0.06
+baggage problems,S7 Siberia Airlines,4,0.06
+baggage problems,Syrianair,4,0.06
+baggage problems,Tunisair,4,0.06
+baggage problems,Turkmenistan Airlines,4,0.06
+baggage problems,Aerosur,3,0.05
+baggage problems,Air Bagan,3,0.05
+baggage problems,Air Botswana,3,0.05
+baggage problems,Air Namibia,3,0.05
+baggage problems,Air Vanuata,3,0.05
+baggage problems,Arik Air,3,0.05
+baggage problems,Azerbaijan Airlines,3,0.05
+baggage problems,Bahamasair,3,0.05
+baggage problems,Cayman Airways,3,0.05
+baggage problems,Darwin,3,0.05
+baggage problems,Dniproavia,3,0.05
+baggage problems,Island,3,0.05
+baggage problems,Jazeera Airways,3,0.05
+baggage problems,Juneyao Airlines,3,0.05
+baggage problems,Lam Mozambique Airlines,3,0.05
+baggage problems,Myanmar Airways,3,0.05
+baggage problems,Small Planet Airlines Uab,3,0.05
+baggage problems,Solomon Airlines,3,0.05
+baggage problems,Volotea,3,0.05
+baggage problems,Yemenia,3,0.05
+baggage problems,Air Austral,2,0.03
+baggage problems,Air Busan,2,0.03
+baggage problems,Air Caraibes,2,0.03
+baggage problems,Air Dolomiti,2,0.03
+baggage problems,Air Macau,2,0.03
+baggage problems,Air Seychelles,2,0.03
+baggage problems,Air Zimbabwe,2,0.03
+baggage problems,Airnorth,2,0.03
+baggage problems,Asky Airlines,2,0.03
+baggage problems,Blue1,2,0.03
+baggage problems,Cambodia Angkor Airlines,2,0.03
+baggage problems,Cape Air,2,0.03
+baggage problems,Conviasa,2,0.03
+baggage problems,Fly540 Com,2,0.03
+baggage problems,Flynas,2,0.03
+baggage problems,Georgian Airways,2,0.03
+baggage problems,Interjet,2,0.03
+baggage problems,Israir Airlines,2,0.03
+baggage problems,Jetairfly,2,0.03
+baggage problems,Lao Airlines,2,0.03
+baggage problems,Libyan Airlines,2,0.03
+baggage problems,Mahan Air,2,0.03
+baggage problems,Mokulele Airlines,2,0.03
+baggage problems,Moldavian Airlines,2,0.03
+baggage problems,Montenegro Airlines,2,0.03
+baggage problems,Rwandair,2,0.03
+baggage problems,Skymark Airlines,2,0.03
+baggage problems,Tame,2,0.03
+baggage problems,Uzbekistan Airways,2,0.03
+baggage problems,Xiamen Airlines,2,0.03
+baggage problems,Aerogal Aerolineas Galapagos,1,0.02
+baggage problems,Air Corsica,1,0.02
+baggage problems,Air India Express,1,0.02
+baggage problems,Air Madagascar,1,0.02
+baggage problems,Air Memphis,1,0.02
+baggage problems,Air North Yukons Airline,1,0.02
+baggage problems,Aircalin,1,0.02
+baggage problems,Anadolujet,1,0.02
+baggage problems,Atlantic Airways,1,0.02
+baggage problems,Avianca Brasil,1,0.02
+baggage problems,Belavia,1,0.02
+baggage problems,Berjaya Air,1,0.02
+baggage problems,Bhutan Airlines,1,0.02
+baggage problems,Binter Canarias,1,0.02
+baggage problems,Canadian North,1,0.02
+baggage problems,Carpatair,1,0.02
+baggage problems,Druk Air,1,0.02
+baggage problems,Edelweiss Air,1,0.02
+baggage problems,Eritrean Airlines,1,0.02
+baggage problems,Europe Airpost,1,0.02
+baggage problems,Far Eastern,1,0.02
+baggage problems,Felix Airways,1,0.02
+baggage problems,Free Bird,1,0.02
+baggage problems,Helvetic,1,0.02
+baggage problems,Horizon Air,1,0.02
+baggage problems,Jeju Air,1,0.02
+baggage problems,Jin Air,1,0.02
+baggage problems,Lan Colombia,1,0.02
+baggage problems,Martinair,1,0.02
+baggage problems,Miat Mongolian,1,0.02
+baggage problems,Nordavia,1,0.02
+baggage problems,Peruvian Airlines,1,0.02
+baggage problems,Regent Airways,1,0.02
+baggage problems,Safi Airways,1,0.02
+baggage problems,Shenzhen Airlines,1,0.02
+baggage problems,Sriwijaya Air,1,0.02
+baggage problems,Star Per,1,0.02
+baggage problems,Taca Regional,1,0.02
+baggage problems,Tacv Cabo,1,0.02
+baggage problems,Tajikistan Airlines,1,0.02
+baggage problems,Thomas Cook Airlines Scandinavia,1,0.02
+baggage problems,Transasia Airways,1,0.02
+baggage problems,Ural Airlines,1,0.02
+baggage problems,Utair Aviation,1,0.02
+baggage problems,Vietjetair,1,0.02
+baggage problems,Yangon Airways,1,0.02
+cancellation stress,Spirit Airlines,211,6.62
+cancellation stress,United Airlines,166,5.21
+cancellation stress,Us Airways,100,3.14
+cancellation stress,American Airlines,99,3.11
+cancellation stress,Flybe,93,2.92
+cancellation stress,Allegiant Air,91,2.86
+cancellation stress,Tigerair,64,2.01
+cancellation stress,Jet Airways,60,1.88
+cancellation stress,Air Canada,53,1.66
+cancellation stress,Frontier Airlines,52,1.63
+cancellation stress,British Airways,50,1.57
+cancellation stress,Jetstar Airways,46,1.44
+cancellation stress,Vueling Airlines,43,1.35
+cancellation stress,Delta Air Lines,40,1.26
+cancellation stress,Tap Portugal,36,1.13
+cancellation stress,Air Canada Rouge,34,1.07
+cancellation stress,Lufthansa,33,1.04
+cancellation stress,Porter Airlines,33,1.04
+cancellation stress,Qantas Airways,32,1.0
+cancellation stress,Aerolineas Argentinas,30,0.94
+cancellation stress,Jetblue Airways,30,0.94
+cancellation stress,Lan Airlines,30,0.94
+cancellation stress,Norwegian,30,0.94
+cancellation stress,Air France,29,0.91
+cancellation stress,Air China,28,0.88
+cancellation stress,Southwest Airlines,27,0.85
+cancellation stress,Virgin Australia,27,0.85
+cancellation stress,Aer Lingus,25,0.78
+cancellation stress,Air Berlin,25,0.78
+cancellation stress,Asiana Airlines,25,0.78
+cancellation stress,Emirates,25,0.78
+cancellation stress,Icelandair,25,0.78
+cancellation stress,Royal Air Maroc,25,0.78
+cancellation stress,Ryanair,25,0.78
+cancellation stress,Fiji Airways,24,0.75
+cancellation stress,Korean Air,24,0.75
+cancellation stress,China Southern Airlines,23,0.72
+cancellation stress,Kenya Airways,23,0.72
+cancellation stress,Airasia X,22,0.69
+cancellation stress,Finnair,22,0.69
+cancellation stress,Air New Zealand,21,0.66
+cancellation stress,Air Transat,21,0.66
+cancellation stress,China Eastern Airlines,21,0.66
+cancellation stress,Klm Royal Dutch Airlines,20,0.63
+cancellation stress,Monarch Airlines,20,0.63
+cancellation stress,Turkish Airlines,19,0.6
+cancellation stress,Air India,18,0.56
+cancellation stress,Airasia,18,0.56
+cancellation stress,Continental Airlines,18,0.56
+cancellation stress,Ethiopian Airlines,18,0.56
+cancellation stress,Etihad Airways,18,0.56
+cancellation stress,Iberia,18,0.56
+cancellation stress,Thai Airways,18,0.56
+cancellation stress,Vietnam Airlines,18,0.56
+cancellation stress,Virgin Atlantic Airways,18,0.56
+cancellation stress,Sunwing Airlines,17,0.53
+cancellation stress,Cebu Pacific,16,0.5
+cancellation stress,Qatar Airways,16,0.5
+cancellation stress,American Eagle,15,0.47
+cancellation stress,Sas Scandinavian Airlines,15,0.47
+cancellation stress,Aeroflot Russian Airlines,14,0.44
+cancellation stress,Austrian Airlines,14,0.44
+cancellation stress,Cathay Pacific Airways,14,0.44
+cancellation stress,Egyptair,14,0.44
+cancellation stress,Garuda Indonesia,14,0.44
+cancellation stress,Lot Polish Airlines,14,0.44
+cancellation stress,Malaysia Airlines,14,0.44
+cancellation stress,Philippine Airlines,14,0.44
+cancellation stress,Taca,14,0.44
+cancellation stress,Tam Airlines,14,0.44
+cancellation stress,Wizz Air,14,0.44
+cancellation stress,Airbaltic,13,0.41
+cancellation stress,Cityjet,13,0.41
+cancellation stress,Liat,13,0.41
+cancellation stress,Pegasus Airlines,13,0.41
+cancellation stress,Royal Brunei Airlines,13,0.41
+cancellation stress,South African Airways,13,0.41
+cancellation stress,Thomas Cook Airlines,13,0.41
+cancellation stress,Thomson Airways,13,0.41
+cancellation stress,Alaska Airlines,12,0.38
+cancellation stress,Ana All Nippon Airways,12,0.38
+cancellation stress,Gulf Air,12,0.38
+cancellation stress,Meridiana,12,0.38
+cancellation stress,Srilankan Airlines,12,0.38
+cancellation stress,Bmi British Midland International,11,0.35
+cancellation stress,Copa Airlines,11,0.35
+cancellation stress,Hawaiian Airlines,11,0.35
+cancellation stress,Swiss International Air Lines,11,0.35
+cancellation stress,Air Europa,10,0.31
+cancellation stress,Air Tahiti Nui,10,0.31
+cancellation stress,Alaska,10,0.31
+cancellation stress,Alitalia,10,0.31
+cancellation stress,Easyjet,10,0.31
+cancellation stress,Precision,10,0.31
+cancellation stress,Aeromexico,9,0.28
+cancellation stress,Avianca,9,0.28
+cancellation stress,Japan Airlines,9,0.28
+cancellation stress,Jetstar Pacific,9,0.28
+cancellation stress,Kuwait Airways,9,0.28
+cancellation stress,Singapore Airlines,9,0.28
+cancellation stress,United,9,0.28
+cancellation stress,Virgin America,9,0.28
+cancellation stress,Westjet,9,0.28
+cancellation stress,Aegean Airlines,8,0.25
+cancellation stress,Air Astana,8,0.25
+cancellation stress,Brussels Airlines,8,0.25
+cancellation stress,Germanwings,8,0.25
+cancellation stress,JetBlue,8,0.25
+cancellation stress,Openskies,8,0.25
+cancellation stress,Phuket Air,8,0.25
+cancellation stress,Delta,7,0.22
+cancellation stress,Flydubai,7,0.22
+cancellation stress,Jet2 Com,7,0.22
+cancellation stress,Pia Pakistan International Airlines,7,0.22
+cancellation stress,Scoot,7,0.22
+cancellation stress,Transavia,7,0.22
+cancellation stress,Air Mauritius,6,0.19
+cancellation stress,Airasia Zest,6,0.19
+cancellation stress,Bangkok Airways,6,0.19
+cancellation stress,Cambodia Angkor Airlines,6,0.19
+cancellation stress,China Airlines,6,0.19
+cancellation stress,Cubana Airlines,6,0.19
+cancellation stress,Darwin,6,0.19
+cancellation stress,Jetstar Asia,6,0.19
+cancellation stress,Sata Internacional,6,0.19
+cancellation stress,Saudi Arabian Airlines,6,0.19
+cancellation stress,Spicejet,6,0.19
+cancellation stress,Air Zimbabwe,5,0.16
+cancellation stress,Blue Islands,5,0.16
+cancellation stress,Condor Airlines,5,0.16
+cancellation stress,Dragonair,5,0.16
+cancellation stress,Eva Air,5,0.16
+cancellation stress,Hong Kong Airlines,5,0.16
+cancellation stress,Insel Air,5,0.16
+cancellation stress,Island,5,0.16
+cancellation stress,Lan Peru,5,0.16
+cancellation stress,Spirit,5,0.16
+cancellation stress,Ukraine International Airlines,5,0.16
+cancellation stress,Vlm Airlines,5,0.16
+cancellation stress,Air Malta,4,0.13
+cancellation stress,Biman Bangladesh,4,0.13
+cancellation stress,Canjet Airlines,4,0.13
+cancellation stress,Corsair,4,0.13
+cancellation stress,Eastern Airways,4,0.13
+cancellation stress,Firefly,4,0.13
+cancellation stress,Lam Mozambique Airlines,4,0.13
+cancellation stress,Lion Air,4,0.13
+cancellation stress,Mokulele Airlines,4,0.13
+cancellation stress,Santa Barbara,4,0.13
+cancellation stress,Yemenia,4,0.13
+cancellation stress,Air Dolomiti,3,0.09
+cancellation stress,Air Moldova,3,0.09
+cancellation stress,Air Niugini,3,0.09
+cancellation stress,American,3,0.09
+cancellation stress,Aurigny Air,3,0.09
+cancellation stress,Ba Cityflyer,3,0.09
+cancellation stress,Cape Air,3,0.09
+cancellation stress,Caribbean Airlines,3,0.09
+cancellation stress,El Al Israel Airlines,3,0.09
+cancellation stress,Eurowings,3,0.09
+cancellation stress,Frontier,3,0.09
+cancellation stress,Hong Kong,3,0.09
+cancellation stress,Malindo Air,3,0.09
+cancellation stress,Nok Air,3,0.09
+cancellation stress,Olympic Air,3,0.09
+cancellation stress,Sata Air Azores,3,0.09
+cancellation stress,Sun Country Airlines,3,0.09
+cancellation stress,Taag Angola Airlines,3,0.09
+cancellation stress,Volaris,3,0.09
+cancellation stress,Wow Air,3,0.09
+cancellation stress,Afriqiyah Airways,2,0.06
+cancellation stress,Air Arabia,2,0.06
+cancellation stress,Air Caraibes,2,0.06
+cancellation stress,Air Namibia,2,0.06
+cancellation stress,Air Seychelles,2,0.06
+cancellation stress,Arik Air,2,0.06
+cancellation stress,Asky Airlines,2,0.06
+cancellation stress,Blue Air,2,0.06
+cancellation stress,Csa Czech Airlines,2,0.06
+cancellation stress,Estonian Air,2,0.06
+cancellation stress,Fly540 Com,2,0.06
+cancellation stress,Goair,2,0.06
+cancellation stress,Gol,2,0.06
+cancellation stress,Hainan Airlines,2,0.06
+cancellation stress,Israir Airlines,2,0.06
+cancellation stress,Kulula,2,0.06
+cancellation stress,Oman Air,2,0.06
+cancellation stress,Onur Air,2,0.06
+cancellation stress,Orient Thai,2,0.06
+cancellation stress,Regional Express,2,0.06
+cancellation stress,Rwandair,2,0.06
+cancellation stress,S7 Siberia Airlines,2,0.06
+cancellation stress,Shanghai Airlines,2,0.06
+cancellation stress,Smartwings,2,0.06
+cancellation stress,Southwest,2,0.06
+cancellation stress,Star Per,2,0.06
+cancellation stress,Tarom Romanian Airlines,2,0.06
+cancellation stress,Turkmenistan Airlines,2,0.06
+cancellation stress,Uzbekistan Airways,2,0.06
+cancellation stress,Adria Airways,1,0.03
+cancellation stress,Aerosur,1,0.03
+cancellation stress,Air Austral,1,0.03
+cancellation stress,Air Bagan,1,0.03
+cancellation stress,Air Blue,1,0.03
+cancellation stress,Air Botswana,1,0.03
+cancellation stress,Air Busan,1,0.03
+cancellation stress,Air Greenland,1,0.03
+cancellation stress,Air India Express,1,0.03
+cancellation stress,Air Malawi,1,0.03
+cancellation stress,Air Memphis,1,0.03
+cancellation stress,Air Nostrum,1,0.03
+cancellation stress,Air Serbia,1,0.03
+cancellation stress,Airnorth,1,0.03
+cancellation stress,Arkefly,1,0.03
+cancellation stress,Avior Airlines,1,0.03
+cancellation stress,Azerbaijan Airlines,1,0.03
+cancellation stress,Azul Linhas Aereas Brasileiras,1,0.03
+cancellation stress,Bahamasair,1,0.03
+cancellation stress,Blue1,1,0.03
+cancellation stress,Buddha Air,1,0.03
+cancellation stress,Bulgaria Air,1,0.03
+cancellation stress,Comair,1,0.03
+cancellation stress,Croatia Airlines,1,0.03
+cancellation stress,Druk Air,1,0.03
+cancellation stress,Edelweiss Air,1,0.03
+cancellation stress,Eritrean Airlines,1,0.03
+cancellation stress,Flynas,1,0.03
+cancellation stress,Hop,1,0.03
+cancellation stress,Horizon Air,1,0.03
+cancellation stress,Jazeera Airways,1,0.03
+cancellation stress,Kam Air,1,0.03
+cancellation stress,Karthago Airlines,1,0.03
+cancellation stress,Lao Airlines,1,0.03
+cancellation stress,Libyan Airlines,1,0.03
+cancellation stress,Lucky Air,1,0.03
+cancellation stress,Luxair,1,0.03
+cancellation stress,Mea Middle East Airlines,1,0.03
+cancellation stress,Miat Mongolian,1,0.03
+cancellation stress,Myanmar Airways,1,0.03
+cancellation stress,Pal Express,1,0.03
+cancellation stress,Peruvian Airlines,1,0.03
+cancellation stress,Rossiya Airlines,1,0.03
+cancellation stress,Royal Jordanian Airlines,1,0.03
+cancellation stress,Sa Express,1,0.03
+cancellation stress,Safi Airways,1,0.03
+cancellation stress,Small Planet Airlines Uab,1,0.03
+cancellation stress,Solomon Airlines,1,0.03
+cancellation stress,Somon Air,1,0.03
+cancellation stress,Spring,1,0.03
+cancellation stress,Syrianair,1,0.03
+cancellation stress,Transaero Airlines,1,0.03
+cancellation stress,Volotea,1,0.03
+cancellation stress,Xiamen Airlines,1,0.03
+customer support responsiveness,British Airways,20,3.81
+customer support responsiveness,Lufthansa,20,3.81
+customer support responsiveness,Air Canada,19,3.62
+customer support responsiveness,Spirit,19,3.62
+customer support responsiveness,Spirit Airlines,19,3.62
+customer support responsiveness,Alaska,16,3.05
+customer support responsiveness,United,16,3.05
+customer support responsiveness,Allegiant Air,15,2.86
+customer support responsiveness,Emirates,13,2.48
+customer support responsiveness,Jet Airways,11,2.1
+customer support responsiveness,Frontier Airlines,10,1.9
+customer support responsiveness,JetBlue,10,1.9
+customer support responsiveness,United Airlines,10,1.9
+customer support responsiveness,Flybe,9,1.71
+customer support responsiveness,Frontier,9,1.71
+customer support responsiveness,Southwest,9,1.71
+customer support responsiveness,American,8,1.52
+customer support responsiveness,Etihad Airways,8,1.52
+customer support responsiveness,Jetstar Airways,8,1.52
+customer support responsiveness,Turkish Airlines,8,1.52
+customer support responsiveness,American Airlines,7,1.33
+customer support responsiveness,China Eastern Airlines,7,1.33
+customer support responsiveness,Tigerair,7,1.33
+customer support responsiveness,Air Canada Rouge,6,1.14
+customer support responsiveness,Cathay Pacific Airways,6,1.14
+customer support responsiveness,Continental Airlines,5,0.95
+customer support responsiveness,Copa Airlines,5,0.95
+customer support responsiveness,Delta,5,0.95
+customer support responsiveness,Icelandair,5,0.95
+customer support responsiveness,Klm Royal Dutch Airlines,5,0.95
+customer support responsiveness,Malaysia Airlines,5,0.95
+customer support responsiveness,Pegasus Airlines,5,0.95
+customer support responsiveness,Qantas Airways,5,0.95
+customer support responsiveness,Us Airways,5,0.95
+customer support responsiveness,Aegean Airlines,4,0.76
+customer support responsiveness,China Southern Airlines,4,0.76
+customer support responsiveness,Condor Airlines,4,0.76
+customer support responsiveness,Easyjet,4,0.76
+customer support responsiveness,Iberia,4,0.76
+customer support responsiveness,Lan Airlines,4,0.76
+customer support responsiveness,Porter Airlines,4,0.76
+customer support responsiveness,Ryanair,4,0.76
+customer support responsiveness,Aeromexico,3,0.57
+customer support responsiveness,Air Berlin,3,0.57
+customer support responsiveness,Air China,3,0.57
+customer support responsiveness,Air Europa,3,0.57
+customer support responsiveness,Alitalia,3,0.57
+customer support responsiveness,Austrian Airlines,3,0.57
+customer support responsiveness,Bangkok Airways,3,0.57
+customer support responsiveness,China Airlines,3,0.57
+customer support responsiveness,Delta Air Lines,3,0.57
+customer support responsiveness,Finnair,3,0.57
+customer support responsiveness,Germanwings,3,0.57
+customer support responsiveness,Jetblue Airways,3,0.57
+customer support responsiveness,Korean Air,3,0.57
+customer support responsiveness,Meridiana,3,0.57
+customer support responsiveness,Norwegian,3,0.57
+customer support responsiveness,Royal Brunei Airlines,3,0.57
+customer support responsiveness,Sunwing Airlines,3,0.57
+customer support responsiveness,Thomas Cook Airlines,3,0.57
+customer support responsiveness,Virgin Atlantic Airways,3,0.57
+customer support responsiveness,Virgin Australia,3,0.57
+customer support responsiveness,Adria Airways,2,0.38
+customer support responsiveness,Aer Lingus,2,0.38
+customer support responsiveness,Air New Zealand,2,0.38
+customer support responsiveness,Airasia X,2,0.38
+customer support responsiveness,Airasia Zest,2,0.38
+customer support responsiveness,Blue Islands,2,0.38
+customer support responsiveness,Brussels Airlines,2,0.38
+customer support responsiveness,Egyptair,2,0.38
+customer support responsiveness,Fiji Airways,2,0.38
+customer support responsiveness,Garuda Indonesia,2,0.38
+customer support responsiveness,Gulf Air,2,0.38
+customer support responsiveness,Hawaiian Airlines,2,0.38
+customer support responsiveness,Jet2 Com,2,0.38
+customer support responsiveness,Karthago Airlines,2,0.38
+customer support responsiveness,Kenya Airways,2,0.38
+customer support responsiveness,Lan Colombia,2,0.38
+customer support responsiveness,Luxair,2,0.38
+customer support responsiveness,Monarch Airlines,2,0.38
+customer support responsiveness,Phuket Air,2,0.38
+customer support responsiveness,Sas Scandinavian Airlines,2,0.38
+customer support responsiveness,Srilankan Airlines,2,0.38
+customer support responsiveness,Tap Portugal,2,0.38
+customer support responsiveness,Thomson Airways,2,0.38
+customer support responsiveness,Vietnam Airlines,2,0.38
+customer support responsiveness,Wizz Air,2,0.38
+customer support responsiveness,Aeroflot Russian Airlines,1,0.19
+customer support responsiveness,Aerolineas Argentinas,1,0.19
+customer support responsiveness,Afriqiyah Airways,1,0.19
+customer support responsiveness,Air Astana,1,0.19
+customer support responsiveness,Air Blue,1,0.19
+customer support responsiveness,Air Botswana,1,0.19
+customer support responsiveness,Air India,1,0.19
+customer support responsiveness,Air Malta,1,0.19
+customer support responsiveness,Air Serbia,1,0.19
+customer support responsiveness,Airbaltic,1,0.19
+customer support responsiveness,Asiana Airlines,1,0.19
+customer support responsiveness,Cambodia Angkor Airlines,1,0.19
+customer support responsiveness,Cebu Pacific,1,0.19
+customer support responsiveness,Cityjet,1,0.19
+customer support responsiveness,Eastern Airways,1,0.19
+customer support responsiveness,Edelweiss Air,1,0.19
+customer support responsiveness,Eurowings,1,0.19
+customer support responsiveness,Gol,1,0.19
+customer support responsiveness,Hainan Airlines,1,0.19
+customer support responsiveness,Hong Kong Airlines,1,0.19
+customer support responsiveness,Horizon Air,1,0.19
+customer support responsiveness,Insel Air,1,0.19
+customer support responsiveness,Island,1,0.19
+customer support responsiveness,Kuwait Airways,1,0.19
+customer support responsiveness,Lion Air,1,0.19
+customer support responsiveness,Mahan Air,1,0.19
+customer support responsiveness,Olympic Air,1,0.19
+customer support responsiveness,Oman Air,1,0.19
+customer support responsiveness,Philippine Airlines,1,0.19
+customer support responsiveness,Qatar Airways,1,0.19
+customer support responsiveness,Rossiya Airlines,1,0.19
+customer support responsiveness,S7 Siberia Airlines,1,0.19
+customer support responsiveness,Sa Express,1,0.19
+customer support responsiveness,Saudi Arabian Airlines,1,0.19
+customer support responsiveness,Scoot,1,0.19
+customer support responsiveness,Silkair,1,0.19
+customer support responsiveness,Singapore Airlines,1,0.19
+customer support responsiveness,Skymark Airlines,1,0.19
+customer support responsiveness,Southwest Airlines,1,0.19
+customer support responsiveness,Swiss International Air Lines,1,0.19
+customer support responsiveness,Taca,1,0.19
+customer support responsiveness,Tam Airlines,1,0.19
+customer support responsiveness,Thai Airways,1,0.19
+customer support responsiveness,Thomas Cook Airlines Scandinavia,1,0.19
+customer support responsiveness,Ukraine International Airlines,1,0.19
+customer support responsiveness,Virgin America,1,0.19
+customer support responsiveness,Vlm Airlines,1,0.19
+customer support responsiveness,Volaris,1,0.19
+delay frustration,Spirit Airlines,388,4.73
+delay frustration,United Airlines,274,3.34
+delay frustration,Allegiant Air,250,3.05
+delay frustration,Sunwing Airlines,207,2.52
+delay frustration,American Airlines,180,2.2
+delay frustration,Us Airways,150,1.83
+delay frustration,Frontier Airlines,141,1.72
+delay frustration,Jet Airways,139,1.7
+delay frustration,Tap Portugal,138,1.68
+delay frustration,British Airways,137,1.67
+delay frustration,Flybe,128,1.56
+delay frustration,Norwegian,122,1.49
+delay frustration,Etihad Airways,120,1.46
+delay frustration,Air Canada,116,1.41
+delay frustration,Monarch Airlines,114,1.39
+delay frustration,Turkish Airlines,108,1.32
+delay frustration,Southwest Airlines,105,1.28
+delay frustration,Thomas Cook Airlines,103,1.26
+delay frustration,Delta Air Lines,98,1.2
+delay frustration,Emirates,90,1.1
+delay frustration,Ryanair,88,1.07
+delay frustration,Vueling Airlines,86,1.05
+delay frustration,China Eastern Airlines,85,1.04
+delay frustration,Jetstar Airways,85,1.04
+delay frustration,Air India,84,1.02
+delay frustration,Easyjet,79,0.96
+delay frustration,Jet2 Com,74,0.9
+delay frustration,Aerolineas Argentinas,72,0.88
+delay frustration,Thomson Airways,72,0.88
+delay frustration,Tigerair,71,0.87
+delay frustration,Air Canada Rouge,70,0.85
+delay frustration,Aer Lingus,68,0.83
+delay frustration,Jetblue Airways,66,0.8
+delay frustration,Wizz Air,63,0.77
+delay frustration,Philippine Airlines,62,0.76
+delay frustration,Cathay Pacific Airways,61,0.74
+delay frustration,Air China,60,0.73
+delay frustration,Finnair,60,0.73
+delay frustration,China Southern Airlines,59,0.72
+delay frustration,Airasia,58,0.71
+delay frustration,Qatar Airways,58,0.71
+delay frustration,Malaysia Airlines,57,0.7
+delay frustration,Air France,56,0.68
+delay frustration,Klm Royal Dutch Airlines,54,0.66
+delay frustration,Srilankan Airlines,54,0.66
+delay frustration,Lufthansa,53,0.65
+delay frustration,Air Berlin,51,0.62
+delay frustration,Aeroflot Russian Airlines,50,0.61
+delay frustration,Alitalia,49,0.6
+delay frustration,Iberia,49,0.6
+delay frustration,Qantas Airways,49,0.6
+delay frustration,Garuda Indonesia,48,0.59
+delay frustration,Icelandair,48,0.59
+delay frustration,Virgin Australia,46,0.56
+delay frustration,Lan Airlines,44,0.54
+delay frustration,Royal Air Maroc,44,0.54
+delay frustration,Sas Scandinavian Airlines,44,0.54
+delay frustration,Air Europa,43,0.52
+delay frustration,Austrian Airlines,42,0.51
+delay frustration,Brussels Airlines,39,0.48
+delay frustration,Vietnam Airlines,39,0.48
+delay frustration,Germanwings,38,0.46
+delay frustration,Kuwait Airways,38,0.46
+delay frustration,Porter Airlines,38,0.46
+delay frustration,Air Transat,37,0.45
+delay frustration,Bangkok Airways,37,0.45
+delay frustration,Swiss International Air Lines,37,0.45
+delay frustration,Aegean Airlines,36,0.44
+delay frustration,Alaska Airlines,35,0.43
+delay frustration,Ethiopian Airlines,35,0.43
+delay frustration,Fiji Airways,35,0.43
+delay frustration,Virgin Atlantic Airways,35,0.43
+delay frustration,China Airlines,34,0.41
+delay frustration,Lot Polish Airlines,34,0.41
+delay frustration,Dragonair,32,0.39
+delay frustration,Kenya Airways,32,0.39
+delay frustration,Liat,32,0.39
+delay frustration,Singapore Airlines,32,0.39
+delay frustration,Cebu Pacific,31,0.38
+delay frustration,Bmi British Midland International,30,0.37
+delay frustration,Condor Airlines,30,0.37
+delay frustration,Continental Airlines,29,0.35
+delay frustration,Egyptair,29,0.35
+delay frustration,Pegasus Airlines,29,0.35
+delay frustration,South African Airways,29,0.35
+delay frustration,Cubana Airlines,28,0.34
+delay frustration,Onur Air,28,0.34
+delay frustration,Tam Airlines,28,0.34
+delay frustration,Canjet Airlines,27,0.33
+delay frustration,Hong Kong Airlines,27,0.33
+delay frustration,Ukraine International Airlines,26,0.32
+delay frustration,Air New Zealand,25,0.3
+delay frustration,Avianca,25,0.3
+delay frustration,Scoot,25,0.3
+delay frustration,Thai Airways,25,0.3
+delay frustration,Virgin America,25,0.3
+delay frustration,Gulf Air,24,0.29
+delay frustration,Meridiana,24,0.29
+delay frustration,Oman Air,24,0.29
+delay frustration,Royal Brunei Airlines,24,0.29
+delay frustration,Aeromexico,23,0.28
+delay frustration,American Eagle,22,0.27
+delay frustration,Pia Pakistan International Airlines,22,0.27
+delay frustration,Shanghai Airlines,22,0.27
+delay frustration,Airasia X,21,0.26
+delay frustration,Biman Bangladesh,21,0.26
+delay frustration,Hawaiian Airlines,21,0.26
+delay frustration,Jetstar Pacific,21,0.26
+delay frustration,Royal Jordanian Airlines,21,0.26
+delay frustration,Spicejet,21,0.26
+delay frustration,Lion Air,20,0.24
+delay frustration,Jetstar Asia,19,0.23
+delay frustration,Alaska,18,0.22
+delay frustration,Ana All Nippon Airways,18,0.22
+delay frustration,Asiana Airlines,18,0.22
+delay frustration,Csa Czech Airlines,18,0.22
+delay frustration,Eva Air,18,0.22
+delay frustration,Sata Internacional,18,0.22
+delay frustration,Precision,17,0.21
+delay frustration,Saudi Arabian Airlines,17,0.21
+delay frustration,Transavia,17,0.21
+delay frustration,Hainan Airlines,16,0.2
+delay frustration,Korean Air,16,0.2
+delay frustration,Sata Air Azores,16,0.2
+delay frustration,American,15,0.18
+delay frustration,Air Mauritius,14,0.17
+delay frustration,Arik Air,14,0.17
+delay frustration,Copa Airlines,14,0.17
+delay frustration,Insel Air,14,0.17
+delay frustration,Karthago Airlines,14,0.17
+delay frustration,Spring,14,0.17
+delay frustration,Taca,14,0.17
+delay frustration,Tunisair,14,0.17
+delay frustration,Air Blue,13,0.16
+delay frustration,Cityjet,13,0.16
+delay frustration,Darwin,13,0.16
+delay frustration,Flydubai,13,0.16
+delay frustration,Indigo Airlines,13,0.16
+delay frustration,Malindo Air,13,0.16
+delay frustration,United,13,0.16
+delay frustration,Air Malta,12,0.15
+delay frustration,El Al Israel Airlines,12,0.15
+delay frustration,Hong Kong,12,0.15
+delay frustration,Orient Thai,12,0.15
+delay frustration,Smartwings,12,0.15
+delay frustration,Southwest,12,0.15
+delay frustration,Westjet,12,0.15
+delay frustration,Air Algerie,11,0.13
+delay frustration,Air Astana,11,0.13
+delay frustration,Air Serbia,11,0.13
+delay frustration,Airasia Zest,11,0.13
+delay frustration,Airbaltic,11,0.13
+delay frustration,Kulula,11,0.13
+delay frustration,Phuket Air,11,0.13
+delay frustration,Bulgaria Air,10,0.12
+delay frustration,Island,10,0.12
+delay frustration,Japan Airlines,10,0.12
+delay frustration,Afriqiyah Airways,9,0.11
+delay frustration,Arkefly,9,0.11
+delay frustration,Aurigny Air,9,0.11
+delay frustration,Delta,9,0.11
+delay frustration,Frontier,9,0.11
+delay frustration,Gol,9,0.11
+delay frustration,Small Planet Airlines Uab,9,0.11
+delay frustration,Sun Country Airlines,9,0.11
+delay frustration,Transaero Airlines,9,0.11
+delay frustration,Air Zimbabwe,8,0.1
+delay frustration,Croatia Airlines,8,0.1
+delay frustration,Goair,8,0.1
+delay frustration,Iran Air,8,0.1
+delay frustration,JetBlue,8,0.1
+delay frustration,Juneyao Airlines,8,0.1
+delay frustration,Santa Barbara,8,0.1
+delay frustration,Silkair,8,0.1
+delay frustration,Air Dolomiti,7,0.09
+delay frustration,Air Moldova,7,0.09
+delay frustration,Air Seychelles,7,0.09
+delay frustration,Ba Cityflyer,7,0.09
+delay frustration,Blue Air,7,0.09
+delay frustration,Cambodia Angkor Airlines,7,0.09
+delay frustration,Firefly,7,0.09
+delay frustration,Sichuan Airlines,7,0.09
+delay frustration,Vietjetair,7,0.09
+delay frustration,Xiamen Airlines,7,0.09
+delay frustration,Blue Islands,6,0.07
+delay frustration,Estonian Air,6,0.07
+delay frustration,Eurowings,6,0.07
+delay frustration,Lam Mozambique Airlines,6,0.07
+delay frustration,Mahan Air,6,0.07
+delay frustration,Miat Mongolian,6,0.07
+delay frustration,Olympic Air,6,0.07
+delay frustration,Openskies,6,0.07
+delay frustration,Pal Express,6,0.07
+delay frustration,Qantaslink,6,0.07
+delay frustration,Sa Express,6,0.07
+delay frustration,Spirit,6,0.07
+delay frustration,Tarom Romanian Airlines,6,0.07
+delay frustration,Vlm Airlines,6,0.07
+delay frustration,Wow Air,6,0.07
+delay frustration,Air Madagascar,5,0.06
+delay frustration,Air Namibia,5,0.06
+delay frustration,Air Tahiti Nui,5,0.06
+delay frustration,Bahamasair,5,0.06
+delay frustration,Caribbean Airlines,5,0.06
+delay frustration,Eastern Airways,5,0.06
+delay frustration,Fly540 Com,5,0.06
+delay frustration,Kam Air,5,0.06
+delay frustration,Mokulele Airlines,5,0.06
+delay frustration,Rossiya Airlines,5,0.06
+delay frustration,Shenzhen Airlines,5,0.06
+delay frustration,Tacv Cabo,5,0.06
+delay frustration,Turkmenistan Airlines,5,0.06
+delay frustration,Volotea,5,0.06
+delay frustration,Adria Airways,4,0.05
+delay frustration,Aerogal Aerolineas Galapagos,4,0.05
+delay frustration,Air Arabia,4,0.05
+delay frustration,Air Niugini,4,0.05
+delay frustration,Aircalin,4,0.05
+delay frustration,Atlasjet Airlines,4,0.05
+delay frustration,Bluexpress,4,0.05
+delay frustration,Cape Air,4,0.05
+delay frustration,Comair,4,0.05
+delay frustration,Corsair,4,0.05
+delay frustration,Martinair,4,0.05
+delay frustration,Montenegro Airlines,4,0.05
+delay frustration,Niki,4,0.05
+delay frustration,Nok Air,4,0.05
+delay frustration,Shandong Airlines,4,0.05
+delay frustration,Skywest Airlines,4,0.05
+delay frustration,Surinam Airways,4,0.05
+delay frustration,Taag Angola Airlines,4,0.05
+delay frustration,Volaris,4,0.05
+delay frustration,Xl Airways France,4,0.05
+delay frustration,Aerosur,3,0.04
+delay frustration,Air Vanuata,3,0.04
+delay frustration,Azul Linhas Aereas Brasileiras,3,0.04
+delay frustration,Belavia,3,0.04
+delay frustration,Carpatair,3,0.04
+delay frustration,Cayman Airways,3,0.04
+delay frustration,Eritrean Airlines,3,0.04
+delay frustration,Jetairfly,3,0.04
+delay frustration,Lan Peru,3,0.04
+delay frustration,Lucky Air,3,0.04
+delay frustration,Mango,3,0.04
+delay frustration,Myanmar Airways,3,0.04
+delay frustration,Sriwijaya Air,3,0.04
+delay frustration,Syrianair,3,0.04
+delay frustration,Uzbekistan Airways,3,0.04
+delay frustration,Yemenia,3,0.04
+delay frustration,Air Austral,2,0.02
+delay frustration,Air Busan,2,0.02
+delay frustration,Air Macau,2,0.02
+delay frustration,Air Mediterranee,2,0.02
+delay frustration,Arkia Israeli,2,0.02
+delay frustration,Avior Airlines,2,0.02
+delay frustration,Azerbaijan Airlines,2,0.02
+delay frustration,Blue1,2,0.02
+delay frustration,Boliviana De Aviacin,2,0.02
+delay frustration,Helvetic,2,0.02
+delay frustration,Interjet,2,0.02
+delay frustration,Iran Aseman,2,0.02
+delay frustration,Israir Airlines,2,0.02
+delay frustration,Lao Airlines,2,0.02
+delay frustration,Libyan Airlines,2,0.02
+delay frustration,Mea Middle East Airlines,2,0.02
+delay frustration,Peach Aviation,2,0.02
+delay frustration,Regional Express,2,0.02
+delay frustration,Rwandair,2,0.02
+delay frustration,Safi Airways,2,0.02
+delay frustration,Shaheen Air,2,0.02
+delay frustration,Sky Airline,2,0.02
+delay frustration,Star Per,2,0.02
+delay frustration,Transasia Airways,2,0.02
+delay frustration,Tuifly,2,0.02
+delay frustration,Wideroe,2,0.02
+delay frustration,Aerocaribbean,1,0.01
+delay frustration,Air Botswana,1,0.01
+delay frustration,Air Cairo User,1,0.01
+delay frustration,Air Caraibes,1,0.01
+delay frustration,Air Corsica,1,0.01
+delay frustration,Air Greenland,1,0.01
+delay frustration,Air India Express,1,0.01
+delay frustration,Air Memphis,1,0.01
+delay frustration,Airnorth,1,0.01
+delay frustration,Anadolujet,1,0.01
+delay frustration,Berjaya Air,1,0.01
+delay frustration,Binter Canarias,1,0.01
+delay frustration,Bmi Regional,1,0.01
+delay frustration,Central Mountain Air,1,0.01
+delay frustration,Corendon Airlines,1,0.01
+delay frustration,Druk Air,1,0.01
+delay frustration,Edelweiss Air,1,0.01
+delay frustration,Flynas,1,0.01
+delay frustration,Georgian Airways,1,0.01
+delay frustration,Henan Airlines,1,0.01
+delay frustration,Horizon Air,1,0.01
+delay frustration,Kish Air,1,0.01
+delay frustration,Luxair,1,0.01
+delay frustration,Malm Aviation,1,0.01
+delay frustration,Nouvelair,1,0.01
+delay frustration,Passaredo Linhas Aereas,1,0.01
+delay frustration,Peruvian Airlines,1,0.01
+delay frustration,Regent Airways,1,0.01
+delay frustration,S7 Siberia Airlines,1,0.01
+delay frustration,Skybus,1,0.01
+delay frustration,Skymark Airlines,1,0.01
+delay frustration,Sol Lineas Aereas,1,0.01
+delay frustration,Sun Express,1,0.01
+delay frustration,Taca Regional,1,0.01
+delay frustration,Tame,1,0.01
+delay frustration,Thai Airasia,1,0.01
+delay frustration,Tianjin Airlines,1,0.01
+delay frustration,Ural Airlines,1,0.01
+digital / app / website issues,American,16,9.2
+digital / app / website issues,Alaska,15,8.62
+digital / app / website issues,Spirit,14,8.05
+digital / app / website issues,United,14,8.05
+digital / app / website issues,Southwest,12,6.9
+digital / app / website issues,Air Canada,10,5.75
+digital / app / website issues,British Airways,9,5.17
+digital / app / website issues,Frontier,9,5.17
+digital / app / website issues,JetBlue,9,5.17
+digital / app / website issues,Emirates,6,3.45
+digital / app / website issues,Lufthansa,6,3.45
+digital / app / website issues,Delta,4,2.3
+digital / app / website issues,Allegiant Air,3,1.72
+digital / app / website issues,Flybe,3,1.72
+digital / app / website issues,Egyptair,2,1.15
+digital / app / website issues,Frontier Airlines,2,1.15
+digital / app / website issues,Icelandair,2,1.15
+digital / app / website issues,Japan Airlines,2,1.15
+digital / app / website issues,Jetstar Airways,2,1.15
+digital / app / website issues,Monarch Airlines,2,1.15
+digital / app / website issues,Sunwing Airlines,2,1.15
+digital / app / website issues,Aer Lingus,1,0.57
+digital / app / website issues,Aeroflot Russian Airlines,1,0.57
+digital / app / website issues,Air Arabia,1,0.57
+digital / app / website issues,Air France,1,0.57
+digital / app / website issues,Air Mauritius,1,0.57
+digital / app / website issues,Airasia,1,0.57
+digital / app / website issues,Alitalia,1,0.57
+digital / app / website issues,Austrian Airlines,1,0.57
+digital / app / website issues,Bmi Regional,1,0.57
+digital / app / website issues,China Airlines,1,0.57
+digital / app / website issues,Condor Airlines,1,0.57
+digital / app / website issues,Etihad Airways,1,0.57
+digital / app / website issues,Flydubai,1,0.57
+digital / app / website issues,Garuda Indonesia,1,0.57
+digital / app / website issues,Germanwings,1,0.57
+digital / app / website issues,Hawaiian Airlines,1,0.57
+digital / app / website issues,Iberia,1,0.57
+digital / app / website issues,Indigo Airlines,1,0.57
+digital / app / website issues,Jet Airways,1,0.57
+digital / app / website issues,Philippine Airlines,1,0.57
+digital / app / website issues,Qatar Airways,1,0.57
+digital / app / website issues,Rossiya Airlines,1,0.57
+digital / app / website issues,Sas Scandinavian Airlines,1,0.57
+digital / app / website issues,Scoot,1,0.57
+digital / app / website issues,Spirit Airlines,1,0.57
+digital / app / website issues,Srilankan Airlines,1,0.57
+digital / app / website issues,Swiss International Air Lines,1,0.57
+digital / app / website issues,Thomson Airways,1,0.57
+digital / app / website issues,Tigerair,1,0.57
+digital / app / website issues,Wizz Air,1,0.57
+poor communication,Air Canada,59,2.59
+poor communication,British Airways,57,2.5
+poor communication,Spirit Airlines,46,2.02
+poor communication,Sunwing Airlines,45,1.97
+poor communication,United Airlines,43,1.89
+poor communication,Emirates,35,1.53
+poor communication,Jet Airways,35,1.53
+poor communication,Norwegian,35,1.53
+poor communication,Vueling Airlines,34,1.49
+poor communication,Lufthansa,33,1.45
+poor communication,Alaska,32,1.4
+poor communication,Ryanair,32,1.4
+poor communication,Etihad Airways,31,1.36
+poor communication,Flybe,31,1.36
+poor communication,Air Canada Rouge,28,1.23
+poor communication,American,28,1.23
+poor communication,China Southern Airlines,28,1.23
+poor communication,Thomson Airways,28,1.23
+poor communication,United,28,1.23
+poor communication,Air China,27,1.18
+poor communication,Allegiant Air,27,1.18
+poor communication,American Airlines,27,1.18
+poor communication,Jetstar Airways,27,1.18
+poor communication,Thomas Cook Airlines,27,1.18
+poor communication,Turkish Airlines,27,1.18
+poor communication,China Eastern Airlines,25,1.1
+poor communication,JetBlue,25,1.1
+poor communication,Monarch Airlines,25,1.1
+poor communication,Spirit,25,1.1
+poor communication,Tap Portugal,25,1.1
+poor communication,Tigerair,25,1.1
+poor communication,Easyjet,24,1.05
+poor communication,Airasia,23,1.01
+poor communication,Southwest,22,0.96
+poor communication,Southwest Airlines,22,0.96
+poor communication,Us Airways,21,0.92
+poor communication,Virgin Australia,21,0.92
+poor communication,Jet2 Com,20,0.88
+poor communication,Wizz Air,20,0.88
+poor communication,Air France,19,0.83
+poor communication,Air India,19,0.83
+poor communication,Aerolineas Argentinas,18,0.79
+poor communication,Frontier Airlines,18,0.79
+poor communication,Royal Air Maroc,18,0.79
+poor communication,Aer Lingus,17,0.75
+poor communication,Lan Airlines,17,0.75
+poor communication,China Airlines,16,0.7
+poor communication,Iberia,16,0.7
+poor communication,Jetblue Airways,16,0.7
+poor communication,Delta Air Lines,15,0.66
+poor communication,Ethiopian Airlines,15,0.66
+poor communication,Klm Royal Dutch Airlines,15,0.66
+poor communication,Qatar Airways,15,0.66
+poor communication,Air Berlin,14,0.61
+poor communication,Air Europa,14,0.61
+poor communication,Onur Air,14,0.61
+poor communication,Vietnam Airlines,14,0.61
+poor communication,Aeroflot Russian Airlines,13,0.57
+poor communication,Avianca,13,0.57
+poor communication,Delta,13,0.57
+poor communication,Frontier,13,0.57
+poor communication,Garuda Indonesia,13,0.57
+poor communication,Icelandair,13,0.57
+poor communication,Kenya Airways,13,0.57
+poor communication,Srilankan Airlines,13,0.57
+poor communication,Alaska Airlines,12,0.53
+poor communication,Eva Air,11,0.48
+poor communication,Malaysia Airlines,11,0.48
+poor communication,Qantas Airways,11,0.48
+poor communication,Asiana Airlines,10,0.44
+poor communication,Finnair,10,0.44
+poor communication,Sas Scandinavian Airlines,10,0.44
+poor communication,Air Transat,9,0.39
+poor communication,Alitalia,9,0.39
+poor communication,Copa Airlines,9,0.39
+poor communication,Egyptair,9,0.39
+poor communication,Fiji Airways,9,0.39
+poor communication,Lot Polish Airlines,9,0.39
+poor communication,Meridiana,9,0.39
+poor communication,Porter Airlines,9,0.39
+poor communication,Royal Brunei Airlines,9,0.39
+poor communication,Scoot,9,0.39
+poor communication,Tunisair,9,0.39
+poor communication,Virgin America,9,0.39
+poor communication,Virgin Atlantic Airways,9,0.39
+poor communication,Aegean Airlines,8,0.35
+poor communication,Ana All Nippon Airways,8,0.35
+poor communication,Cathay Pacific Airways,8,0.35
+poor communication,Cebu Pacific,8,0.35
+poor communication,Condor Airlines,8,0.35
+poor communication,Cubana Airlines,8,0.35
+poor communication,Kuwait Airways,8,0.35
+poor communication,Liat,8,0.35
+poor communication,Tam Airlines,8,0.35
+poor communication,Air New Zealand,7,0.31
+poor communication,Airasia X,7,0.31
+poor communication,Brussels Airlines,7,0.31
+poor communication,Hong Kong Airlines,7,0.31
+poor communication,Karthago Airlines,7,0.31
+poor communication,Lion Air,7,0.31
+poor communication,Pegasus Airlines,7,0.31
+poor communication,Saudi Arabian Airlines,7,0.31
+poor communication,Singapore Airlines,7,0.31
+poor communication,South African Airways,7,0.31
+poor communication,Ukraine International Airlines,7,0.31
+poor communication,Canjet Airlines,6,0.26
+poor communication,Gulf Air,6,0.26
+poor communication,Hainan Airlines,6,0.26
+poor communication,Kulula,6,0.26
+poor communication,Philippine Airlines,6,0.26
+poor communication,Phuket Air,6,0.26
+poor communication,Precision,6,0.26
+poor communication,Royal Jordanian Airlines,6,0.26
+poor communication,Taca,6,0.26
+poor communication,Thai Airways,6,0.26
+poor communication,Aeromexico,5,0.22
+poor communication,Air Tahiti Nui,5,0.22
+poor communication,Bmi British Midland International,5,0.22
+poor communication,Continental Airlines,5,0.22
+poor communication,Croatia Airlines,5,0.22
+poor communication,Csa Czech Airlines,5,0.22
+poor communication,Germanwings,5,0.22
+poor communication,Jetstar Asia,5,0.22
+poor communication,Korean Air,5,0.22
+poor communication,Air Malta,4,0.18
+poor communication,Air Serbia,4,0.18
+poor communication,Arik Air,4,0.18
+poor communication,Austrian Airlines,4,0.18
+poor communication,Bangkok Airways,4,0.18
+poor communication,Caribbean Airlines,4,0.18
+poor communication,Estonian Air,4,0.18
+poor communication,Goair,4,0.18
+poor communication,Indigo Airlines,4,0.18
+poor communication,Insel Air,4,0.18
+poor communication,Island,4,0.18
+poor communication,Oman Air,4,0.18
+poor communication,Pia Pakistan International Airlines,4,0.18
+poor communication,Rossiya Airlines,4,0.18
+poor communication,Shanghai Airlines,4,0.18
+poor communication,Spring,4,0.18
+poor communication,Sun Country Airlines,4,0.18
+poor communication,Swiss International Air Lines,4,0.18
+poor communication,Volaris,4,0.18
+poor communication,Afriqiyah Airways,3,0.13
+poor communication,Air Algerie,3,0.13
+poor communication,Air Mauritius,3,0.13
+poor communication,Airbaltic,3,0.13
+poor communication,American Eagle,3,0.13
+poor communication,Azul Linhas Aereas Brasileiras,3,0.13
+poor communication,Ba Cityflyer,3,0.13
+poor communication,Biman Bangladesh,3,0.13
+poor communication,Cityjet,3,0.13
+poor communication,Jetstar Pacific,3,0.13
+poor communication,Lam Mozambique Airlines,3,0.13
+poor communication,Nok Air,3,0.13
+poor communication,Rwandair,3,0.13
+poor communication,S7 Siberia Airlines,3,0.13
+poor communication,Shenzhen Airlines,3,0.13
+poor communication,Silkair,3,0.13
+poor communication,Sun Express,3,0.13
+poor communication,Transaero Airlines,3,0.13
+poor communication,Transavia,3,0.13
+poor communication,Turkmenistan Airlines,3,0.13
+poor communication,Xiamen Airlines,3,0.13
+poor communication,Adria Airways,2,0.09
+poor communication,Air Koryo,2,0.09
+poor communication,Air Macau,2,0.09
+poor communication,Air Nostrum,2,0.09
+poor communication,Air Seychelles,2,0.09
+poor communication,Atlasjet Airlines,2,0.09
+poor communication,Aurigny Air,2,0.09
+poor communication,Blue Air,2,0.09
+poor communication,Eastern Airways,2,0.09
+poor communication,El Al Israel Airlines,2,0.09
+poor communication,Eurowings,2,0.09
+poor communication,Flydubai,2,0.09
+poor communication,Hawaiian Airlines,2,0.09
+poor communication,Helvetic,2,0.09
+poor communication,Japan Airlines,2,0.09
+poor communication,Juneyao Airlines,2,0.09
+poor communication,Malindo Air,2,0.09
+poor communication,Mango,2,0.09
+poor communication,Mea Middle East Airlines,2,0.09
+poor communication,Montenegro Airlines,2,0.09
+poor communication,Olympic Air,2,0.09
+poor communication,Openskies,2,0.09
+poor communication,Orient Thai,2,0.09
+poor communication,Pal Express,2,0.09
+poor communication,Qantaslink,2,0.09
+poor communication,Santa Barbara,2,0.09
+poor communication,Sata Air Azores,2,0.09
+poor communication,Sata Internacional,2,0.09
+poor communication,Shandong Airlines,2,0.09
+poor communication,Sky Airline,2,0.09
+poor communication,Smartwings,2,0.09
+poor communication,Syrianair,2,0.09
+poor communication,Taag Angola Airlines,2,0.09
+poor communication,Tacv Cabo,2,0.09
+poor communication,Thomas Cook Airlines Scandinavia,2,0.09
+poor communication,Transasia Airways,2,0.09
+poor communication,Air Arabia,1,0.04
+poor communication,Air Astana,1,0.04
+poor communication,Air Austral,1,0.04
+poor communication,Air Blue,1,0.04
+poor communication,Air Dolomiti,1,0.04
+poor communication,Air Madagascar,1,0.04
+poor communication,Air Mediterranee,1,0.04
+poor communication,Air Moldova,1,0.04
+poor communication,Air Namibia,1,0.04
+poor communication,Air North Yukons Airline,1,0.04
+poor communication,Air Zimbabwe,1,0.04
+poor communication,Arkia Israeli,1,0.04
+poor communication,Bahamasair,1,0.04
+poor communication,Belavia,1,0.04
+poor communication,Bhutan Airlines,1,0.04
+poor communication,Bluexpress,1,0.04
+poor communication,Cape Air,1,0.04
+poor communication,Central Mountain Air,1,0.04
+poor communication,Corendon Airlines,1,0.04
+poor communication,Darwin,1,0.04
+poor communication,Dragonair,1,0.04
+poor communication,Eritrean Airlines,1,0.04
+poor communication,Far Eastern,1,0.04
+poor communication,Fly540 Com,1,0.04
+poor communication,Flynas,1,0.04
+poor communication,Free Bird,1,0.04
+poor communication,Georgian Airways,1,0.04
+poor communication,Gol,1,0.04
+poor communication,Intersky,1,0.04
+poor communication,Iran Air,1,0.04
+poor communication,Iran Aseman,1,0.04
+poor communication,Jazeera Airways,1,0.04
+poor communication,Lan Peru,1,0.04
+poor communication,Libyan Airlines,1,0.04
+poor communication,Mahan Air,1,0.04
+poor communication,Malm Aviation,1,0.04
+poor communication,Martinair,1,0.04
+poor communication,Mokulele Airlines,1,0.04
+poor communication,Myanmar Airways,1,0.04
+poor communication,Okay Airways,1,0.04
+poor communication,Peruvian Airlines,1,0.04
+poor communication,Sa Express,1,0.04
+poor communication,Sichuan Airlines,1,0.04
+poor communication,Skywest Airlines,1,0.04
+poor communication,Sol Lineas Aereas,1,0.04
+poor communication,Spicejet,1,0.04
+poor communication,Star Per,1,0.04
+poor communication,Surinam Airways,1,0.04
+poor communication,Tame,1,0.04
+poor communication,Tarom Romanian Airlines,1,0.04
+poor communication,Ural Airlines,1,0.04
+poor communication,Utair Aviation,1,0.04
+poor communication,Volotea,1,0.04
+poor communication,Westjet,1,0.04
+poor communication,Wideroe,1,0.04
+poor communication,Wow Air,1,0.04
+poor communication,Yemenia,1,0.04
+pricing / compensation dissatisfaction,United Airlines,28,4.79
+pricing / compensation dissatisfaction,Spirit Airlines,22,3.77
+pricing / compensation dissatisfaction,Frontier Airlines,19,3.25
+pricing / compensation dissatisfaction,Sunwing Airlines,18,3.08
+pricing / compensation dissatisfaction,Allegiant Air,15,2.57
+pricing / compensation dissatisfaction,American Airlines,15,2.57
+pricing / compensation dissatisfaction,Jet Airways,14,2.4
+pricing / compensation dissatisfaction,Us Airways,14,2.4
+pricing / compensation dissatisfaction,British Airways,11,1.88
+pricing / compensation dissatisfaction,Norwegian,11,1.88
+pricing / compensation dissatisfaction,Air Canada,10,1.71
+pricing / compensation dissatisfaction,Air Canada Rouge,10,1.71
+pricing / compensation dissatisfaction,Thomas Cook Airlines,10,1.71
+pricing / compensation dissatisfaction,Virgin Australia,9,1.54
+pricing / compensation dissatisfaction,Vueling Airlines,9,1.54
+pricing / compensation dissatisfaction,Delta Air Lines,8,1.37
+pricing / compensation dissatisfaction,Philippine Airlines,8,1.37
+pricing / compensation dissatisfaction,Thomson Airways,8,1.37
+pricing / compensation dissatisfaction,Emirates,7,1.2
+pricing / compensation dissatisfaction,Jetstar Airways,7,1.2
+pricing / compensation dissatisfaction,Monarch Airlines,7,1.2
+pricing / compensation dissatisfaction,Tap Portugal,7,1.2
+pricing / compensation dissatisfaction,Aerolineas Argentinas,6,1.03
+pricing / compensation dissatisfaction,Air Berlin,6,1.03
+pricing / compensation dissatisfaction,Air Transat,6,1.03
+pricing / compensation dissatisfaction,Canjet Airlines,6,1.03
+pricing / compensation dissatisfaction,Easyjet,6,1.03
+pricing / compensation dissatisfaction,Etihad Airways,6,1.03
+pricing / compensation dissatisfaction,Jetblue Airways,6,1.03
+pricing / compensation dissatisfaction,Royal Air Maroc,6,1.03
+pricing / compensation dissatisfaction,Southwest Airlines,6,1.03
+pricing / compensation dissatisfaction,Aer Lingus,5,0.86
+pricing / compensation dissatisfaction,Air France,5,0.86
+pricing / compensation dissatisfaction,Finnair,5,0.86
+pricing / compensation dissatisfaction,Iberia,5,0.86
+pricing / compensation dissatisfaction,Srilankan Airlines,5,0.86
+pricing / compensation dissatisfaction,Turkish Airlines,5,0.86
+pricing / compensation dissatisfaction,Airasia,4,0.68
+pricing / compensation dissatisfaction,Alaska Airlines,4,0.68
+pricing / compensation dissatisfaction,Brussels Airlines,4,0.68
+pricing / compensation dissatisfaction,Cathay Pacific Airways,4,0.68
+pricing / compensation dissatisfaction,China Eastern Airlines,4,0.68
+pricing / compensation dissatisfaction,Copa Airlines,4,0.68
+pricing / compensation dissatisfaction,Ethiopian Airlines,4,0.68
+pricing / compensation dissatisfaction,Flybe,4,0.68
+pricing / compensation dissatisfaction,Icelandair,4,0.68
+pricing / compensation dissatisfaction,Kenya Airways,4,0.68
+pricing / compensation dissatisfaction,Klm Royal Dutch Airlines,4,0.68
+pricing / compensation dissatisfaction,Lufthansa,4,0.68
+pricing / compensation dissatisfaction,Porter Airlines,4,0.68
+pricing / compensation dissatisfaction,Ryanair,4,0.68
+pricing / compensation dissatisfaction,Scoot,4,0.68
+pricing / compensation dissatisfaction,Tigerair,4,0.68
+pricing / compensation dissatisfaction,Wizz Air,4,0.68
+pricing / compensation dissatisfaction,Air Europa,3,0.51
+pricing / compensation dissatisfaction,Air Malta,3,0.51
+pricing / compensation dissatisfaction,China Airlines,3,0.51
+pricing / compensation dissatisfaction,Continental Airlines,3,0.51
+pricing / compensation dissatisfaction,Garuda Indonesia,3,0.51
+pricing / compensation dissatisfaction,Gulf Air,3,0.51
+pricing / compensation dissatisfaction,Liat,3,0.51
+pricing / compensation dissatisfaction,Malaysia Airlines,3,0.51
+pricing / compensation dissatisfaction,Precision,3,0.51
+pricing / compensation dissatisfaction,Royal Brunei Airlines,3,0.51
+pricing / compensation dissatisfaction,Tam Airlines,3,0.51
+pricing / compensation dissatisfaction,Vietnam Airlines,3,0.51
+pricing / compensation dissatisfaction,Virgin Atlantic Airways,3,0.51
+pricing / compensation dissatisfaction,Aeroflot Russian Airlines,2,0.34
+pricing / compensation dissatisfaction,Aeromexico,2,0.34
+pricing / compensation dissatisfaction,Air Blue,2,0.34
+pricing / compensation dissatisfaction,Air New Zealand,2,0.34
+pricing / compensation dissatisfaction,Air Tahiti Nui,2,0.34
+pricing / compensation dissatisfaction,Airasia X,2,0.34
+pricing / compensation dissatisfaction,Alitalia,2,0.34
+pricing / compensation dissatisfaction,Bmi British Midland International,2,0.34
+pricing / compensation dissatisfaction,Bulgaria Air,2,0.34
+pricing / compensation dissatisfaction,Cape Air,2,0.34
+pricing / compensation dissatisfaction,Cebu Pacific,2,0.34
+pricing / compensation dissatisfaction,China Southern Airlines,2,0.34
+pricing / compensation dissatisfaction,Condor Airlines,2,0.34
+pricing / compensation dissatisfaction,Estonian Air,2,0.34
+pricing / compensation dissatisfaction,Germanwings,2,0.34
+pricing / compensation dissatisfaction,Israir Airlines,2,0.34
+pricing / compensation dissatisfaction,Japan Airlines,2,0.34
+pricing / compensation dissatisfaction,JetBlue,2,0.34
+pricing / compensation dissatisfaction,Jetstar Asia,2,0.34
+pricing / compensation dissatisfaction,Kulula,2,0.34
+pricing / compensation dissatisfaction,Lion Air,2,0.34
+pricing / compensation dissatisfaction,Lot Polish Airlines,2,0.34
+pricing / compensation dissatisfaction,Qatar Airways,2,0.34
+pricing / compensation dissatisfaction,Royal Jordanian Airlines,2,0.34
+pricing / compensation dissatisfaction,Sata Air Azores,2,0.34
+pricing / compensation dissatisfaction,Shandong Airlines,2,0.34
+pricing / compensation dissatisfaction,Shanghai Airlines,2,0.34
+pricing / compensation dissatisfaction,Singapore Airlines,2,0.34
+pricing / compensation dissatisfaction,Smartwings,2,0.34
+pricing / compensation dissatisfaction,South African Airways,2,0.34
+pricing / compensation dissatisfaction,Swiss International Air Lines,2,0.34
+pricing / compensation dissatisfaction,Taca,2,0.34
+pricing / compensation dissatisfaction,Transavia,2,0.34
+pricing / compensation dissatisfaction,Virgin America,2,0.34
+pricing / compensation dissatisfaction,Xl Airways France,2,0.34
+pricing / compensation dissatisfaction,Aegean Airlines,1,0.17
+pricing / compensation dissatisfaction,Aerogal Aerolineas Galapagos,1,0.17
+pricing / compensation dissatisfaction,Air Arabia,1,0.17
+pricing / compensation dissatisfaction,Air Caraibes,1,0.17
+pricing / compensation dissatisfaction,Air Greenland,1,0.17
+pricing / compensation dissatisfaction,Air India,1,0.17
+pricing / compensation dissatisfaction,Air Mauritius,1,0.17
+pricing / compensation dissatisfaction,Air Serbia,1,0.17
+pricing / compensation dissatisfaction,Air Seychelles,1,0.17
+pricing / compensation dissatisfaction,Airbaltic,1,0.17
+pricing / compensation dissatisfaction,Airnorth,1,0.17
+pricing / compensation dissatisfaction,American Eagle,1,0.17
+pricing / compensation dissatisfaction,Ana All Nippon Airways,1,0.17
+pricing / compensation dissatisfaction,Arkia Israeli,1,0.17
+pricing / compensation dissatisfaction,Austrian Airlines,1,0.17
+pricing / compensation dissatisfaction,Avianca,1,0.17
+pricing / compensation dissatisfaction,Bahamasair,1,0.17
+pricing / compensation dissatisfaction,Bangkok Airways,1,0.17
+pricing / compensation dissatisfaction,Cityjet,1,0.17
+pricing / compensation dissatisfaction,Csa Czech Airlines,1,0.17
+pricing / compensation dissatisfaction,Cubana Airlines,1,0.17
+pricing / compensation dissatisfaction,Delta,1,0.17
+pricing / compensation dissatisfaction,Egyptair,1,0.17
+pricing / compensation dissatisfaction,Eurowings,1,0.17
+pricing / compensation dissatisfaction,Eva Air,1,0.17
+pricing / compensation dissatisfaction,Fiji Airways,1,0.17
+pricing / compensation dissatisfaction,Gol,1,0.17
+pricing / compensation dissatisfaction,Hainan Airlines,1,0.17
+pricing / compensation dissatisfaction,Indigo Airlines,1,0.17
+pricing / compensation dissatisfaction,Island,1,0.17
+pricing / compensation dissatisfaction,Jet2 Com,1,0.17
+pricing / compensation dissatisfaction,Jetairfly,1,0.17
+pricing / compensation dissatisfaction,Jetstar Pacific,1,0.17
+pricing / compensation dissatisfaction,Juneyao Airlines,1,0.17
+pricing / compensation dissatisfaction,Kuwait Airways,1,0.17
+pricing / compensation dissatisfaction,Lan Airlines,1,0.17
+pricing / compensation dissatisfaction,Meridiana,1,0.17
+pricing / compensation dissatisfaction,Mokulele Airlines,1,0.17
+pricing / compensation dissatisfaction,Olympic Air,1,0.17
+pricing / compensation dissatisfaction,Oman Air,1,0.17
+pricing / compensation dissatisfaction,Openskies,1,0.17
+pricing / compensation dissatisfaction,Orient Thai,1,0.17
+pricing / compensation dissatisfaction,Pegasus Airlines,1,0.17
+pricing / compensation dissatisfaction,Safi Airways,1,0.17
+pricing / compensation dissatisfaction,Sas Scandinavian Airlines,1,0.17
+pricing / compensation dissatisfaction,Silkair,1,0.17
+pricing / compensation dissatisfaction,Skybus,1,0.17
+pricing / compensation dissatisfaction,Skymark Airlines,1,0.17
+pricing / compensation dissatisfaction,Sun Country Airlines,1,0.17
+pricing / compensation dissatisfaction,Transaero Airlines,1,0.17
+pricing / compensation dissatisfaction,Turkmenistan Airlines,1,0.17
+pricing / compensation dissatisfaction,Ukraine International Airlines,1,0.17
+pricing / compensation dissatisfaction,Vlm Airlines,1,0.17
+pricing / compensation dissatisfaction,Volotea,1,0.17
+pricing / compensation dissatisfaction,Westjet,1,0.17
+pricing / compensation dissatisfaction,Wow Air,1,0.17
+rebooking friction,Spirit Airlines,62,7.6
+rebooking friction,Frontier Airlines,43,5.27
+rebooking friction,United Airlines,43,5.27
+rebooking friction,American Airlines,42,5.15
+rebooking friction,Us Airways,28,3.43
+rebooking friction,Delta Air Lines,27,3.31
+rebooking friction,Air Canada,24,2.94
+rebooking friction,Jet Airways,15,1.84
+rebooking friction,Lufthansa,14,1.72
+rebooking friction,Air Canada Rouge,12,1.47
+rebooking friction,British Airways,11,1.35
+rebooking friction,Spirit,11,1.35
+rebooking friction,United,11,1.35
+rebooking friction,Air France,10,1.23
+rebooking friction,Aeromexico,9,1.1
+rebooking friction,Airasia,9,1.1
+rebooking friction,Allegiant Air,9,1.1
+rebooking friction,Delta,9,1.1
+rebooking friction,JetBlue,9,1.1
+rebooking friction,Klm Royal Dutch Airlines,9,1.1
+rebooking friction,Norwegian,9,1.1
+rebooking friction,Southwest,9,1.1
+rebooking friction,Southwest Airlines,9,1.1
+rebooking friction,Tap Portugal,9,1.1
+rebooking friction,Vueling Airlines,9,1.1
+rebooking friction,Air New Zealand,8,0.98
+rebooking friction,Alaska,8,0.98
+rebooking friction,Continental Airlines,8,0.98
+rebooking friction,Ethiopian Airlines,8,0.98
+rebooking friction,Frontier,8,0.98
+rebooking friction,Icelandair,8,0.98
+rebooking friction,Lan Airlines,8,0.98
+rebooking friction,Porter Airlines,8,0.98
+rebooking friction,Turkish Airlines,8,0.98
+rebooking friction,Aer Lingus,7,0.86
+rebooking friction,Aerolineas Argentinas,7,0.86
+rebooking friction,American,7,0.86
+rebooking friction,Ryanair,7,0.86
+rebooking friction,Sas Scandinavian Airlines,7,0.86
+rebooking friction,Tigerair,7,0.86
+rebooking friction,Air China,6,0.74
+rebooking friction,Alaska Airlines,6,0.74
+rebooking friction,American Eagle,6,0.74
+rebooking friction,China Airlines,6,0.74
+rebooking friction,Copa Airlines,6,0.74
+rebooking friction,Emirates,6,0.74
+rebooking friction,Jetblue Airways,6,0.74
+rebooking friction,Virgin Australia,6,0.74
+rebooking friction,Alitalia,5,0.61
+rebooking friction,Cathay Pacific Airways,5,0.61
+rebooking friction,Condor Airlines,5,0.61
+rebooking friction,Etihad Airways,5,0.61
+rebooking friction,Finnair,5,0.61
+rebooking friction,Jetstar Airways,5,0.61
+rebooking friction,Lot Polish Airlines,5,0.61
+rebooking friction,Air Europa,4,0.49
+rebooking friction,Easyjet,4,0.49
+rebooking friction,Fiji Airways,4,0.49
+rebooking friction,Hawaiian Airlines,4,0.49
+rebooking friction,Iberia,4,0.49
+rebooking friction,Qantas Airways,4,0.49
+rebooking friction,Swiss International Air Lines,4,0.49
+rebooking friction,Virgin America,4,0.49
+rebooking friction,Aeroflot Russian Airlines,3,0.37
+rebooking friction,Air Astana,3,0.37
+rebooking friction,Air India,3,0.37
+rebooking friction,Austrian Airlines,3,0.37
+rebooking friction,China Eastern Airlines,3,0.37
+rebooking friction,China Southern Airlines,3,0.37
+rebooking friction,Kenya Airways,3,0.37
+rebooking friction,Philippine Airlines,3,0.37
+rebooking friction,Sunwing Airlines,3,0.37
+rebooking friction,Aegean Airlines,2,0.25
+rebooking friction,Afriqiyah Airways,2,0.25
+rebooking friction,Air Namibia,2,0.25
+rebooking friction,Avianca,2,0.25
+rebooking friction,Bangkok Airways,2,0.25
+rebooking friction,Bmi British Midland International,2,0.25
+rebooking friction,Cape Air,2,0.25
+rebooking friction,Cebu Pacific,2,0.25
+rebooking friction,Csa Czech Airlines,2,0.25
+rebooking friction,Dragonair,2,0.25
+rebooking friction,Estonian Air,2,0.25
+rebooking friction,Flybe,2,0.25
+rebooking friction,Korean Air,2,0.25
+rebooking friction,Lion Air,2,0.25
+rebooking friction,Malaysia Airlines,2,0.25
+rebooking friction,Monarch Airlines,2,0.25
+rebooking friction,Phuket Air,2,0.25
+rebooking friction,Royal Air Maroc,2,0.25
+rebooking friction,S7 Siberia Airlines,2,0.25
+rebooking friction,Scoot,2,0.25
+rebooking friction,Singapore Airlines,2,0.25
+rebooking friction,South African Airways,2,0.25
+rebooking friction,Srilankan Airlines,2,0.25
+rebooking friction,Sun Country Airlines,2,0.25
+rebooking friction,Taca,2,0.25
+rebooking friction,Thai Airways,2,0.25
+rebooking friction,Thomas Cook Airlines,2,0.25
+rebooking friction,Ukraine International Airlines,2,0.25
+rebooking friction,Vietnam Airlines,2,0.25
+rebooking friction,Westjet,2,0.25
+rebooking friction,Wizz Air,2,0.25
+rebooking friction,Xl Airways France,2,0.25
+rebooking friction,Air Berlin,1,0.12
+rebooking friction,Air Koryo,1,0.12
+rebooking friction,Air Malta,1,0.12
+rebooking friction,Air Niugini,1,0.12
+rebooking friction,Air Seychelles,1,0.12
+rebooking friction,Airasia X,1,0.12
+rebooking friction,Airasia Zest,1,0.12
+rebooking friction,Airbaltic,1,0.12
+rebooking friction,Asiana Airlines,1,0.12
+rebooking friction,Blue Islands,1,0.12
+rebooking friction,Blue1,1,0.12
+rebooking friction,Boliviana De Aviacin,1,0.12
+rebooking friction,Brussels Airlines,1,0.12
+rebooking friction,Buddha Air,1,0.12
+rebooking friction,Edelweiss Air,1,0.12
+rebooking friction,Egyptair,1,0.12
+rebooking friction,El Al Israel Airlines,1,0.12
+rebooking friction,Eva Air,1,0.12
+rebooking friction,Garuda Indonesia,1,0.12
+rebooking friction,Germanwings,1,0.12
+rebooking friction,Gulf Air,1,0.12
+rebooking friction,Indigo Airlines,1,0.12
+rebooking friction,Jet2 Com,1,0.12
+rebooking friction,Jetstar Asia,1,0.12
+rebooking friction,Lan Peru,1,0.12
+rebooking friction,Lao Airlines,1,0.12
+rebooking friction,Liat,1,0.12
+rebooking friction,Meridiana,1,0.12
+rebooking friction,Mokulele Airlines,1,0.12
+rebooking friction,Openskies,1,0.12
+rebooking friction,Qantaslink,1,0.12
+rebooking friction,Qatar Airways,1,0.12
+rebooking friction,Rossiya Airlines,1,0.12
+rebooking friction,Sa Express,1,0.12
+rebooking friction,Safi Airways,1,0.12
+rebooking friction,Sata Internacional,1,0.12
+rebooking friction,Saudi Arabian Airlines,1,0.12
+rebooking friction,Skywest Airlines,1,0.12
+rebooking friction,Spring,1,0.12
+rebooking friction,Surinam Airways,1,0.12
+rebooking friction,Vlm Airlines,1,0.12
+rebooking friction,Volaris,1,0.12
+rebooking friction,Wideroe,1,0.12
+rebooking friction,Wow Air,1,0.12
+refund difficulty,Spirit Airlines,146,9.54
+refund difficulty,Allegiant Air,48,3.14
+refund difficulty,United Airlines,47,3.07
+refund difficulty,Frontier Airlines,46,3.0
+refund difficulty,Sunwing Airlines,44,2.87
+refund difficulty,Tigerair,38,2.48
+refund difficulty,British Airways,32,2.09
+refund difficulty,Jetstar Airways,32,2.09
+refund difficulty,American Airlines,31,2.02
+refund difficulty,Norwegian,29,1.89
+refund difficulty,Flybe,28,1.83
+refund difficulty,Us Airways,28,1.83
+refund difficulty,Air Canada,26,1.7
+refund difficulty,Southwest Airlines,25,1.63
+refund difficulty,Air Canada Rouge,21,1.37
+refund difficulty,Jet Airways,21,1.37
+refund difficulty,Ryanair,21,1.37
+refund difficulty,Thomas Cook Airlines,20,1.31
+refund difficulty,Air Transat,19,1.24
+refund difficulty,Emirates,19,1.24
+refund difficulty,Vueling Airlines,18,1.18
+refund difficulty,Lufthansa,17,1.11
+refund difficulty,Wizz Air,17,1.11
+refund difficulty,Airasia,16,1.05
+refund difficulty,Easyjet,16,1.05
+refund difficulty,Jetblue Airways,16,1.05
+refund difficulty,Klm Royal Dutch Airlines,16,1.05
+refund difficulty,Etihad Airways,15,0.98
+refund difficulty,Jet2 Com,14,0.91
+refund difficulty,Aer Lingus,13,0.85
+refund difficulty,Srilankan Airlines,13,0.85
+refund difficulty,Monarch Airlines,12,0.78
+refund difficulty,Scoot,12,0.78
+refund difficulty,Virgin Australia,12,0.78
+refund difficulty,Air France,11,0.72
+refund difficulty,Alaska Airlines,11,0.72
+refund difficulty,Delta Air Lines,11,0.72
+refund difficulty,Thomson Airways,11,0.72
+refund difficulty,Iberia,9,0.59
+refund difficulty,Qatar Airways,9,0.59
+refund difficulty,Virgin America,9,0.59
+refund difficulty,Virgin Atlantic Airways,9,0.59
+refund difficulty,Airbaltic,8,0.52
+refund difficulty,Canjet Airlines,8,0.52
+refund difficulty,Icelandair,8,0.52
+refund difficulty,JetBlue,8,0.52
+refund difficulty,Pegasus Airlines,8,0.52
+refund difficulty,Royal Air Maroc,8,0.52
+refund difficulty,Spirit,8,0.52
+refund difficulty,Air Berlin,7,0.46
+refund difficulty,Airasia X,7,0.46
+refund difficulty,Cathay Pacific Airways,7,0.46
+refund difficulty,Cebu Pacific,7,0.46
+refund difficulty,Continental Airlines,7,0.46
+refund difficulty,Eva Air,7,0.46
+refund difficulty,Finnair,7,0.46
+refund difficulty,Germanwings,7,0.46
+refund difficulty,Liat,7,0.46
+refund difficulty,Philippine Airlines,7,0.46
+refund difficulty,Porter Airlines,7,0.46
+refund difficulty,Tam Airlines,7,0.46
+refund difficulty,Turkish Airlines,7,0.46
+refund difficulty,Westjet,7,0.46
+refund difficulty,Air New Zealand,6,0.39
+refund difficulty,Brussels Airlines,6,0.39
+refund difficulty,Egyptair,6,0.39
+refund difficulty,Frontier,6,0.39
+refund difficulty,Hawaiian Airlines,6,0.39
+refund difficulty,Lan Airlines,6,0.39
+refund difficulty,South African Airways,6,0.39
+refund difficulty,Aerolineas Argentinas,5,0.33
+refund difficulty,Air Malta,5,0.33
+refund difficulty,Alitalia,5,0.33
+refund difficulty,Delta,5,0.33
+refund difficulty,Ethiopian Airlines,5,0.33
+refund difficulty,Flydubai,5,0.33
+refund difficulty,Kuwait Airways,5,0.33
+refund difficulty,Saudi Arabian Airlines,5,0.33
+refund difficulty,Singapore Airlines,5,0.33
+refund difficulty,Spicejet,5,0.33
+refund difficulty,Tap Portugal,5,0.33
+refund difficulty,Vietnam Airlines,5,0.33
+refund difficulty,Aeromexico,4,0.26
+refund difficulty,Air Astana,4,0.26
+refund difficulty,Air Europa,4,0.26
+refund difficulty,Air Tahiti Nui,4,0.26
+refund difficulty,Alaska,4,0.26
+refund difficulty,Austrian Airlines,4,0.26
+refund difficulty,Bmi British Midland International,4,0.26
+refund difficulty,China Airlines,4,0.26
+refund difficulty,China Eastern Airlines,4,0.26
+refund difficulty,Condor Airlines,4,0.26
+refund difficulty,Fiji Airways,4,0.26
+refund difficulty,Jetstar Pacific,4,0.26
+refund difficulty,Korean Air,4,0.26
+refund difficulty,Kulula,4,0.26
+refund difficulty,Lot Polish Airlines,4,0.26
+refund difficulty,Precision,4,0.26
+refund difficulty,Qantas Airways,4,0.26
+refund difficulty,Royal Brunei Airlines,4,0.26
+refund difficulty,Southwest,4,0.26
+refund difficulty,Air China,3,0.2
+refund difficulty,American,3,0.2
+refund difficulty,Avianca,3,0.2
+refund difficulty,Bahamasair,3,0.2
+refund difficulty,China Southern Airlines,3,0.2
+refund difficulty,Cityjet,3,0.2
+refund difficulty,Cubana Airlines,3,0.2
+refund difficulty,Darwin,3,0.2
+refund difficulty,Garuda Indonesia,3,0.2
+refund difficulty,Hong Kong Airlines,3,0.2
+refund difficulty,Jetstar Asia,3,0.2
+refund difficulty,Lion Air,3,0.2
+refund difficulty,Malaysia Airlines,3,0.2
+refund difficulty,Meridiana,3,0.2
+refund difficulty,Onur Air,3,0.2
+refund difficulty,Openskies,3,0.2
+refund difficulty,Sas Scandinavian Airlines,3,0.2
+refund difficulty,Sata Internacional,3,0.2
+refund difficulty,Silkair,3,0.2
+refund difficulty,Swiss International Air Lines,3,0.2
+refund difficulty,Thai Airways,3,0.2
+refund difficulty,Transavia,3,0.2
+refund difficulty,United,3,0.2
+refund difficulty,Xl Airways France,3,0.2
+refund difficulty,Aegean Airlines,2,0.13
+refund difficulty,Aeroflot Russian Airlines,2,0.13
+refund difficulty,Air India,2,0.13
+refund difficulty,Air Namibia,2,0.13
+refund difficulty,Air Seychelles,2,0.13
+refund difficulty,Airasia Zest,2,0.13
+refund difficulty,Arik Air,2,0.13
+refund difficulty,Aurigny Air,2,0.13
+refund difficulty,Azul Linhas Aereas Brasileiras,2,0.13
+refund difficulty,Bangkok Airways,2,0.13
+refund difficulty,Biman Bangladesh,2,0.13
+refund difficulty,Blue Islands,2,0.13
+refund difficulty,Bmi Regional,2,0.13
+refund difficulty,Carpatair,2,0.13
+refund difficulty,Copa Airlines,2,0.13
+refund difficulty,Dragonair,2,0.13
+refund difficulty,Firefly,2,0.13
+refund difficulty,Gol,2,0.13
+refund difficulty,Gulf Air,2,0.13
+refund difficulty,Hainan Airlines,2,0.13
+refund difficulty,Indigo Airlines,2,0.13
+refund difficulty,Iran Air,2,0.13
+refund difficulty,Japan Airlines,2,0.13
+refund difficulty,Kenya Airways,2,0.13
+refund difficulty,Mahan Air,2,0.13
+refund difficulty,Royal Jordanian Airlines,2,0.13
+refund difficulty,S7 Siberia Airlines,2,0.13
+refund difficulty,Sata Air Azores,2,0.13
+refund difficulty,Skymark Airlines,2,0.13
+refund difficulty,Smartwings,2,0.13
+refund difficulty,Vlm Airlines,2,0.13
+refund difficulty,Volaris,2,0.13
+refund difficulty,Wow Air,2,0.13
+refund difficulty,Adria Airways,1,0.07
+refund difficulty,Air Bagan,1,0.07
+refund difficulty,Air Blue,1,0.07
+refund difficulty,Air Botswana,1,0.07
+refund difficulty,Air Caraibes,1,0.07
+refund difficulty,Air Madagascar,1,0.07
+refund difficulty,Air Mauritius,1,0.07
+refund difficulty,Air Zimbabwe,1,0.07
+refund difficulty,Airnorth,1,0.07
+refund difficulty,American Eagle,1,0.07
+refund difficulty,Arkefly,1,0.07
+refund difficulty,Asiana Airlines,1,0.07
+refund difficulty,Asky Airlines,1,0.07
+refund difficulty,Blue Air,1,0.07
+refund difficulty,Bulgaria Air,1,0.07
+refund difficulty,Csa Czech Airlines,1,0.07
+refund difficulty,El Al Israel Airlines,1,0.07
+refund difficulty,Estonian Air,1,0.07
+refund difficulty,Free Bird,1,0.07
+refund difficulty,Goair,1,0.07
+refund difficulty,Hong Kong,1,0.07
+refund difficulty,Hop,1,0.07
+refund difficulty,Horizon Air,1,0.07
+refund difficulty,Insel Air,1,0.07
+refund difficulty,Interjet,1,0.07
+refund difficulty,Island,1,0.07
+refund difficulty,Israir Airlines,1,0.07
+refund difficulty,Jazeera Airways,1,0.07
+refund difficulty,Karthago Airlines,1,0.07
+refund difficulty,Lucky Air,1,0.07
+refund difficulty,Martinair,1,0.07
+refund difficulty,Mokulele Airlines,1,0.07
+refund difficulty,Nok Air,1,0.07
+refund difficulty,Olympic Air,1,0.07
+refund difficulty,Oman Air,1,0.07
+refund difficulty,Orient Thai,1,0.07
+refund difficulty,Pal Express,1,0.07
+refund difficulty,Pia Pakistan International Airlines,1,0.07
+refund difficulty,Qantaslink,1,0.07
+refund difficulty,Rossiya Airlines,1,0.07
+refund difficulty,Safi Airways,1,0.07
+refund difficulty,Santa Barbara,1,0.07
+refund difficulty,Shandong Airlines,1,0.07
+refund difficulty,Sun Country Airlines,1,0.07
+refund difficulty,Surinam Airways,1,0.07
+refund difficulty,Syrianair,1,0.07
+refund difficulty,Taca,1,0.07
+refund difficulty,Tame,1,0.07
+refund difficulty,Thomas Cook Airlines Scandinavia,1,0.07
+refund difficulty,Transasia Airways,1,0.07
+refund difficulty,Turkmenistan Airlines,1,0.07
+refund difficulty,Ukraine International Airlines,1,0.07
+refund difficulty,Uzbekistan Airways,1,0.07
+staff helpfulness,British Airways,127,2.23
+staff helpfulness,Lufthansa,104,1.83
+staff helpfulness,United Airlines,104,1.83
+staff helpfulness,Qantas Airways,98,1.72
+staff helpfulness,Emirates,95,1.67
+staff helpfulness,Jet Airways,95,1.67
+staff helpfulness,Easyjet,88,1.55
+staff helpfulness,Aer Lingus,87,1.53
+staff helpfulness,Ryanair,82,1.44
+staff helpfulness,China Southern Airlines,74,1.3
+staff helpfulness,Spirit Airlines,74,1.3
+staff helpfulness,Qatar Airways,70,1.23
+staff helpfulness,Klm Royal Dutch Airlines,69,1.21
+staff helpfulness,Singapore Airlines,69,1.21
+staff helpfulness,Korean Air,67,1.18
+staff helpfulness,American Airlines,66,1.16
+staff helpfulness,Cathay Pacific Airways,65,1.14
+staff helpfulness,Iberia,65,1.14
+staff helpfulness,Turkish Airlines,65,1.14
+staff helpfulness,Virgin Atlantic Airways,65,1.14
+staff helpfulness,Air France,64,1.13
+staff helpfulness,Asiana Airlines,63,1.11
+staff helpfulness,Malaysia Airlines,63,1.11
+staff helpfulness,Air Canada,62,1.09
+staff helpfulness,Etihad Airways,62,1.09
+staff helpfulness,Air Canada Rouge,59,1.04
+staff helpfulness,Norwegian,59,1.04
+staff helpfulness,Finnair,58,1.02
+staff helpfulness,Eva Air,57,1.0
+staff helpfulness,Alitalia,54,0.95
+staff helpfulness,Delta Air Lines,54,0.95
+staff helpfulness,Jetstar Airways,54,0.95
+staff helpfulness,Garuda Indonesia,53,0.93
+staff helpfulness,Jet2 Com,53,0.93
+staff helpfulness,Virgin Australia,53,0.93
+staff helpfulness,Swiss International Air Lines,52,0.91
+staff helpfulness,Thomas Cook Airlines,52,0.91
+staff helpfulness,Monarch Airlines,48,0.84
+staff helpfulness,Us Airways,48,0.84
+staff helpfulness,Allegiant Air,47,0.83
+staff helpfulness,Thai Airways,47,0.83
+staff helpfulness,Aegean Airlines,45,0.79
+staff helpfulness,Aeroflot Russian Airlines,44,0.77
+staff helpfulness,Air Transat,44,0.77
+staff helpfulness,Sas Scandinavian Airlines,44,0.77
+staff helpfulness,Royal Brunei Airlines,43,0.76
+staff helpfulness,Tap Portugal,43,0.76
+staff helpfulness,Bangkok Airways,42,0.74
+staff helpfulness,South African Airways,42,0.74
+staff helpfulness,Jetblue Airways,41,0.72
+staff helpfulness,Southwest Airlines,41,0.72
+staff helpfulness,Air India,40,0.7
+staff helpfulness,Austrian Airlines,40,0.7
+staff helpfulness,Thomson Airways,39,0.69
+staff helpfulness,Virgin America,39,0.69
+staff helpfulness,Air Astana,38,0.67
+staff helpfulness,Air Berlin,38,0.67
+staff helpfulness,Air New Zealand,38,0.67
+staff helpfulness,Airasia X,38,0.67
+staff helpfulness,Frontier Airlines,38,0.67
+staff helpfulness,Flybe,37,0.65
+staff helpfulness,Icelandair,37,0.65
+staff helpfulness,Brussels Airlines,36,0.63
+staff helpfulness,Philippine Airlines,36,0.63
+staff helpfulness,Ana All Nippon Airways,34,0.6
+staff helpfulness,Hawaiian Airlines,34,0.6
+staff helpfulness,Lan Airlines,34,0.6
+staff helpfulness,Srilankan Airlines,34,0.6
+staff helpfulness,Aeromexico,33,0.58
+staff helpfulness,China Eastern Airlines,32,0.56
+staff helpfulness,Gulf Air,32,0.56
+staff helpfulness,Vueling Airlines,32,0.56
+staff helpfulness,Sunwing Airlines,31,0.55
+staff helpfulness,Airasia,29,0.51
+staff helpfulness,Wizz Air,29,0.51
+staff helpfulness,Kenya Airways,28,0.49
+staff helpfulness,Lot Polish Airlines,28,0.49
+staff helpfulness,Vietnam Airlines,28,0.49
+staff helpfulness,Alaska Airlines,27,0.47
+staff helpfulness,Condor Airlines,27,0.47
+staff helpfulness,Csa Czech Airlines,27,0.47
+staff helpfulness,Egyptair,27,0.47
+staff helpfulness,Japan Airlines,27,0.47
+staff helpfulness,Avianca,26,0.46
+staff helpfulness,China Airlines,26,0.46
+staff helpfulness,Indigo Airlines,26,0.46
+staff helpfulness,Tam Airlines,25,0.44
+staff helpfulness,Ethiopian Airlines,24,0.42
+staff helpfulness,Oman Air,24,0.42
+staff helpfulness,Scoot,24,0.42
+staff helpfulness,Tigerair,24,0.42
+staff helpfulness,Kuwait Airways,23,0.4
+staff helpfulness,Air China,22,0.39
+staff helpfulness,Saudi Arabian Airlines,21,0.37
+staff helpfulness,Air Mauritius,20,0.35
+staff helpfulness,Continental Airlines,20,0.35
+staff helpfulness,Fiji Airways,20,0.35
+staff helpfulness,Air Europa,19,0.33
+staff helpfulness,Air Serbia,19,0.33
+staff helpfulness,Bmi British Midland International,19,0.33
+staff helpfulness,Copa Airlines,19,0.33
+staff helpfulness,Dragonair,19,0.33
+staff helpfulness,Pegasus Airlines,19,0.33
+staff helpfulness,Pia Pakistan International Airlines,19,0.33
+staff helpfulness,Silkair,19,0.33
+staff helpfulness,Royal Air Maroc,17,0.3
+staff helpfulness,Aerolineas Argentinas,16,0.28
+staff helpfulness,Hainan Airlines,15,0.26
+staff helpfulness,Tarom Romanian Airlines,15,0.26
+staff helpfulness,Ukraine International Airlines,15,0.26
+staff helpfulness,Royal Jordanian Airlines,14,0.25
+staff helpfulness,Air Dolomiti,13,0.23
+staff helpfulness,El Al Israel Airlines,13,0.23
+staff helpfulness,Onur Air,13,0.23
+staff helpfulness,Porter Airlines,13,0.23
+staff helpfulness,Caribbean Airlines,12,0.21
+staff helpfulness,Sata Internacional,12,0.21
+staff helpfulness,Transavia,12,0.21
+staff helpfulness,Olympic Air,11,0.19
+staff helpfulness,Sun Country Airlines,11,0.19
+staff helpfulness,Air Algerie,10,0.18
+staff helpfulness,Air Malta,10,0.18
+staff helpfulness,Air Namibia,10,0.18
+staff helpfulness,Blue Islands,10,0.18
+staff helpfulness,Bulgaria Air,10,0.18
+staff helpfulness,Cebu Pacific,10,0.18
+staff helpfulness,Germanwings,10,0.18
+staff helpfulness,Sata Air Azores,10,0.18
+staff helpfulness,Taca,10,0.18
+staff helpfulness,Westjet,10,0.18
+staff helpfulness,Air Tahiti Nui,9,0.16
+staff helpfulness,Airbaltic,9,0.16
+staff helpfulness,Canjet Airlines,9,0.16
+staff helpfulness,Cityjet,9,0.16
+staff helpfulness,Eastern Airways,9,0.16
+staff helpfulness,Wow Air,9,0.16
+staff helpfulness,Adria Airways,8,0.14
+staff helpfulness,Air Moldova,8,0.14
+staff helpfulness,Azerbaijan Airlines,8,0.14
+staff helpfulness,Cubana Airlines,8,0.14
+staff helpfulness,Liat,8,0.14
+staff helpfulness,Shenzhen Airlines,8,0.14
+staff helpfulness,Air Koryo,7,0.12
+staff helpfulness,Aurigny Air,7,0.12
+staff helpfulness,Hong Kong,7,0.12
+staff helpfulness,Iran Air,7,0.12
+staff helpfulness,Malindo Air,7,0.12
+staff helpfulness,Small Planet Airlines Uab,7,0.12
+staff helpfulness,Spicejet,7,0.12
+staff helpfulness,American Eagle,6,0.11
+staff helpfulness,Azul Linhas Aereas Brasileiras,6,0.11
+staff helpfulness,Ba Cityflyer,6,0.11
+staff helpfulness,Edelweiss Air,6,0.11
+staff helpfulness,Flydubai,6,0.11
+staff helpfulness,Lan Peru,6,0.11
+staff helpfulness,Meridiana,6,0.11
+staff helpfulness,Openskies,6,0.11
+staff helpfulness,Sa Express,6,0.11
+staff helpfulness,Smartwings,6,0.11
+staff helpfulness,Tame,6,0.11
+staff helpfulness,Volaris,6,0.11
+staff helpfulness,Xl Airways France,6,0.11
+staff helpfulness,Air Seychelles,5,0.09
+staff helpfulness,Air Vanuata,5,0.09
+staff helpfulness,Airasia Zest,5,0.09
+staff helpfulness,Aircalin,5,0.09
+staff helpfulness,Arkefly,5,0.09
+staff helpfulness,Blue1,5,0.09
+staff helpfulness,Estonian Air,5,0.09
+staff helpfulness,Eurowings,5,0.09
+staff helpfulness,Firefly,5,0.09
+staff helpfulness,Hong Kong Airlines,5,0.09
+staff helpfulness,Horizon Air,5,0.09
+staff helpfulness,Jetstar Asia,5,0.09
+staff helpfulness,Juneyao Airlines,5,0.09
+staff helpfulness,Lao Airlines,5,0.09
+staff helpfulness,Mea Middle East Airlines,5,0.09
+staff helpfulness,Nok Air,5,0.09
+staff helpfulness,Orient Thai,5,0.09
+staff helpfulness,Phuket Air,5,0.09
+staff helpfulness,Regional Express,5,0.09
+staff helpfulness,Rwandair,5,0.09
+staff helpfulness,S7 Siberia Airlines,5,0.09
+staff helpfulness,Skymark Airlines,5,0.09
+staff helpfulness,Surinam Airways,5,0.09
+staff helpfulness,Syrianair,5,0.09
+staff helpfulness,Vlm Airlines,5,0.09
+staff helpfulness,Xiamen Airlines,5,0.09
+staff helpfulness,Afriqiyah Airways,4,0.07
+staff helpfulness,Air Memphis,4,0.07
+staff helpfulness,Air Nostrum,4,0.07
+staff helpfulness,Airnorth,4,0.07
+staff helpfulness,Arik Air,4,0.07
+staff helpfulness,Atlasjet Airlines,4,0.07
+staff helpfulness,Carpatair,4,0.07
+staff helpfulness,Free Bird,4,0.07
+staff helpfulness,Kulula,4,0.07
+staff helpfulness,Mahan Air,4,0.07
+staff helpfulness,Martinair,4,0.07
+staff helpfulness,Niki,4,0.07
+staff helpfulness,Precision,4,0.07
+staff helpfulness,Qantaslink,4,0.07
+staff helpfulness,Santa Barbara,4,0.07
+staff helpfulness,Skywest Airlines,4,0.07
+staff helpfulness,Taag Angola Airlines,4,0.07
+staff helpfulness,Tunisair,4,0.07
+staff helpfulness,Air Austral,3,0.05
+staff helpfulness,Air Caraibes,3,0.05
+staff helpfulness,Bahamasair,3,0.05
+staff helpfulness,Belavia,3,0.05
+staff helpfulness,Bh Airlines,3,0.05
+staff helpfulness,Biman Bangladesh,3,0.05
+staff helpfulness,Blue Air,3,0.05
+staff helpfulness,Corsair,3,0.05
+staff helpfulness,Darwin,3,0.05
+staff helpfulness,Druk Air,3,0.05
+staff helpfulness,Fly540 Com,3,0.05
+staff helpfulness,Gol,3,0.05
+staff helpfulness,Helvetic,3,0.05
+staff helpfulness,Insel Air,3,0.05
+staff helpfulness,Intersky,3,0.05
+staff helpfulness,Karthago Airlines,3,0.05
+staff helpfulness,Lam Mozambique Airlines,3,0.05
+staff helpfulness,Lion Air,3,0.05
+staff helpfulness,Luxair,3,0.05
+staff helpfulness,Malm Aviation,3,0.05
+staff helpfulness,Mango,3,0.05
+staff helpfulness,Montenegro Airlines,3,0.05
+staff helpfulness,Nouvelair,3,0.05
+staff helpfulness,Shandong Airlines,3,0.05
+staff helpfulness,Spring,3,0.05
+staff helpfulness,Transaero Airlines,3,0.05
+staff helpfulness,Uzbekistan Airways,3,0.05
+staff helpfulness,Vietjetair,3,0.05
+staff helpfulness,Volotea,3,0.05
+staff helpfulness,Yemenia,3,0.05
+staff helpfulness,Aerogal Aerolineas Galapagos,2,0.04
+staff helpfulness,Aerosur,2,0.04
+staff helpfulness,Aigle Azur,2,0.04
+staff helpfulness,Air Arabia,2,0.04
+staff helpfulness,Air Bagan,2,0.04
+staff helpfulness,Air Busan,2,0.04
+staff helpfulness,Air India Express,2,0.04
+staff helpfulness,Air Niugini,2,0.04
+staff helpfulness,Air Zimbabwe,2,0.04
+staff helpfulness,Avior Airlines,2,0.04
+staff helpfulness,Bluexpress,2,0.04
+staff helpfulness,Cambodia Angkor Airlines,2,0.04
+staff helpfulness,Cayman Airways,2,0.04
+staff helpfulness,Central Mountain Air,2,0.04
+staff helpfulness,Comair,2,0.04
+staff helpfulness,Croatia Airlines,2,0.04
+staff helpfulness,Eritrean Airlines,2,0.04
+staff helpfulness,Israir Airlines,2,0.04
+staff helpfulness,Jazeera Airways,2,0.04
+staff helpfulness,JetBlue,2,0.04
+staff helpfulness,Libyan Airlines,2,0.04
+staff helpfulness,Peach Aviation,2,0.04
+staff helpfulness,Shanghai Airlines,2,0.04
+staff helpfulness,Sky Airline,2,0.04
+staff helpfulness,Spirit,2,0.04
+staff helpfulness,Tuifly,2,0.04
+staff helpfulness,Wideroe,2,0.04
+staff helpfulness,Air Botswana,1,0.02
+staff helpfulness,Air Corsica,1,0.02
+staff helpfulness,Air Greenland,1,0.02
+staff helpfulness,Air Macau,1,0.02
+staff helpfulness,Air Madagascar,1,0.02
+staff helpfulness,Air Mediterranee,1,0.02
+staff helpfulness,Arkia Israeli,1,0.02
+staff helpfulness,Asky Airlines,1,0.02
+staff helpfulness,Avianca Brasil,1,0.02
+staff helpfulness,Berjaya Air,1,0.02
+staff helpfulness,Bhutan Airlines,1,0.02
+staff helpfulness,Binter Canarias,1,0.02
+staff helpfulness,Blue Panorama Airlines,1,0.02
+staff helpfulness,Canadian North,1,0.02
+staff helpfulness,Cape Air,1,0.02
+staff helpfulness,Delta,1,0.02
+staff helpfulness,Flynas,1,0.02
+staff helpfulness,Frontier,1,0.02
+staff helpfulness,Georgian Airways,1,0.02
+staff helpfulness,Goair,1,0.02
+staff helpfulness,Interjet,1,0.02
+staff helpfulness,Island,1,0.02
+staff helpfulness,Jetairfly,1,0.02
+staff helpfulness,Jetstar Pacific,1,0.02
+staff helpfulness,Jin Air,1,0.02
+staff helpfulness,Kam Air,1,0.02
+staff helpfulness,Lan Colombia,1,0.02
+staff helpfulness,Loganair,1,0.02
+staff helpfulness,Lucky Air,1,0.02
+staff helpfulness,Miat Mongolian,1,0.02
+staff helpfulness,Mokulele Airlines,1,0.02
+staff helpfulness,Myanmar Airways,1,0.02
+staff helpfulness,Nordavia,1,0.02
+staff helpfulness,Okay Airways,1,0.02
+staff helpfulness,Regent Airways,1,0.02
+staff helpfulness,Safi Airways,1,0.02
+staff helpfulness,Starflyer,1,0.02
+staff helpfulness,Sun Express,1,0.02
+staff helpfulness,Tacv Cabo,1,0.02
+staff helpfulness,Tajikistan Airlines,1,0.02
+staff helpfulness,Thomas Cook Airlines Scandinavia,1,0.02
+staff helpfulness,Thomas Cook Belgium Airlines Customer,1,0.02
+staff helpfulness,Transasia Airways,1,0.02
+staff helpfulness,Turkmenistan Airlines,1,0.02
+staff helpfulness,Ural Airlines,1,0.02
+staff helpfulness,Yakutia Airlines,1,0.02
+staff helpfulness,Yangon Airways,1,0.02
+successful recovery experience,Emirates,8,5.52
+successful recovery experience,American Airlines,6,4.14
+successful recovery experience,British Airways,5,3.45
+successful recovery experience,Tap Portugal,5,3.45
+successful recovery experience,Airasia X,4,2.76
+successful recovery experience,Delta,4,2.76
+successful recovery experience,Lufthansa,4,2.76
+successful recovery experience,Qantas Airways,4,2.76
+successful recovery experience,United,4,2.76
+successful recovery experience,United Airlines,4,2.76
+successful recovery experience,Alaska,3,2.07
+successful recovery experience,Jetstar Airways,3,2.07
+successful recovery experience,Ryanair,3,2.07
+successful recovery experience,Aer Lingus,2,1.38
+successful recovery experience,Aeroflot Russian Airlines,2,1.38
+successful recovery experience,Air Canada,2,1.38
+successful recovery experience,Air Canada Rouge,2,1.38
+successful recovery experience,Air New Zealand,2,1.38
+successful recovery experience,Air Tahiti Nui,2,1.38
+successful recovery experience,Cambodia Angkor Airlines,2,1.38
+successful recovery experience,China Airlines,2,1.38
+successful recovery experience,China Southern Airlines,2,1.38
+successful recovery experience,Delta Air Lines,2,1.38
+successful recovery experience,Dragonair,2,1.38
+successful recovery experience,Easyjet,2,1.38
+successful recovery experience,Frontier Airlines,2,1.38
+successful recovery experience,Jet Airways,2,1.38
+successful recovery experience,JetBlue,2,1.38
+successful recovery experience,Lan Airlines,2,1.38
+successful recovery experience,Sas Scandinavian Airlines,2,1.38
+successful recovery experience,Southwest,2,1.38
+successful recovery experience,Spring,2,1.38
+successful recovery experience,Turkish Airlines,2,1.38
+successful recovery experience,Us Airways,2,1.38
+successful recovery experience,Virgin Atlantic Airways,2,1.38
+successful recovery experience,Aerolineas Argentinas,1,0.69
+successful recovery experience,Air Astana,1,0.69
+successful recovery experience,Air Berlin,1,0.69
+successful recovery experience,Air Dolomiti,1,0.69
+successful recovery experience,Air Europa,1,0.69
+successful recovery experience,Air India,1,0.69
+successful recovery experience,Air Namibia,1,0.69
+successful recovery experience,Air Serbia,1,0.69
+successful recovery experience,Air Seychelles,1,0.69
+successful recovery experience,Air Transat,1,0.69
+successful recovery experience,Air Zimbabwe,1,0.69
+successful recovery experience,Airasia,1,0.69
+successful recovery experience,Airnorth,1,0.69
+successful recovery experience,Austrian Airlines,1,0.69
+successful recovery experience,Cathay Pacific Airways,1,0.69
+successful recovery experience,Condor Airlines,1,0.69
+successful recovery experience,Continental Airlines,1,0.69
+successful recovery experience,Egyptair,1,0.69
+successful recovery experience,Finnair,1,0.69
+successful recovery experience,Gulf Air,1,0.69
+successful recovery experience,Hainan Airlines,1,0.69
+successful recovery experience,Hawaiian Airlines,1,0.69
+successful recovery experience,Hong Kong Airlines,1,0.69
+successful recovery experience,Iberia,1,0.69
+successful recovery experience,Jetblue Airways,1,0.69
+successful recovery experience,Jetstar Pacific,1,0.69
+successful recovery experience,Kenya Airways,1,0.69
+successful recovery experience,Korean Air,1,0.69
+successful recovery experience,Kuwait Airways,1,0.69
+successful recovery experience,Malaysia Airlines,1,0.69
+successful recovery experience,Norwegian,1,0.69
+successful recovery experience,Openskies,1,0.69
+successful recovery experience,Porter Airlines,1,0.69
+successful recovery experience,Royal Jordanian Airlines,1,0.69
+successful recovery experience,Spicejet,1,0.69
+successful recovery experience,Spirit,1,0.69
+successful recovery experience,Spirit Airlines,1,0.69
+successful recovery experience,Srilankan Airlines,1,0.69
+successful recovery experience,Surinam Airways,1,0.69
+successful recovery experience,Thomas Cook Airlines,1,0.69
+successful recovery experience,Thomson Airways,1,0.69
+successful recovery experience,Tigerair,1,0.69
+successful recovery experience,Virgin America,1,0.69
+successful recovery experience,Vueling Airlines,1,0.69
+trust / loyalty damage,Spirit Airlines,30,11.95
+trust / loyalty damage,Air Canada Rouge,10,3.98
+trust / loyalty damage,United Airlines,10,3.98
+trust / loyalty damage,Etihad Airways,8,3.19
+trust / loyalty damage,Alitalia,7,2.79
+trust / loyalty damage,American Airlines,7,2.79
+trust / loyalty damage,Frontier Airlines,7,2.79
+trust / loyalty damage,Us Airways,7,2.79
+trust / loyalty damage,Allegiant Air,5,1.99
+trust / loyalty damage,China Eastern Airlines,5,1.99
+trust / loyalty damage,Sunwing Airlines,5,1.99
+trust / loyalty damage,Austrian Airlines,4,1.59
+trust / loyalty damage,Norwegian,4,1.59
+trust / loyalty damage,Vueling Airlines,4,1.59
+trust / loyalty damage,Air Transat,3,1.2
+trust / loyalty damage,Airbaltic,3,1.2
+trust / loyalty damage,Brussels Airlines,3,1.2
+trust / loyalty damage,Germanwings,3,1.2
+trust / loyalty damage,Malaysia Airlines,3,1.2
+trust / loyalty damage,Royal Air Maroc,3,1.2
+trust / loyalty damage,Southwest Airlines,3,1.2
+trust / loyalty damage,Virgin America,3,1.2
+trust / loyalty damage,Wizz Air,3,1.2
+trust / loyalty damage,Air Canada,2,0.8
+trust / loyalty damage,Air Europa,2,0.8
+trust / loyalty damage,Air France,2,0.8
+trust / loyalty damage,Airasia,2,0.8
+trust / loyalty damage,American Eagle,2,0.8
+trust / loyalty damage,Ana All Nippon Airways,2,0.8
+trust / loyalty damage,Avianca,2,0.8
+trust / loyalty damage,Biman Bangladesh,2,0.8
+trust / loyalty damage,British Airways,2,0.8
+trust / loyalty damage,China Southern Airlines,2,0.8
+trust / loyalty damage,Delta Air Lines,2,0.8
+trust / loyalty damage,Emirates,2,0.8
+trust / loyalty damage,Ethiopian Airlines,2,0.8
+trust / loyalty damage,Flybe,2,0.8
+trust / loyalty damage,Jet Airways,2,0.8
+trust / loyalty damage,Korean Air,2,0.8
+trust / loyalty damage,Kuwait Airways,2,0.8
+trust / loyalty damage,Lan Airlines,2,0.8
+trust / loyalty damage,Meridiana,2,0.8
+trust / loyalty damage,Monarch Airlines,2,0.8
+trust / loyalty damage,Royal Brunei Airlines,2,0.8
+trust / loyalty damage,Saudi Arabian Airlines,2,0.8
+trust / loyalty damage,Sun Country Airlines,2,0.8
+trust / loyalty damage,Swiss International Air Lines,2,0.8
+trust / loyalty damage,Tap Portugal,2,0.8
+trust / loyalty damage,Thomas Cook Airlines,2,0.8
+trust / loyalty damage,Tigerair,2,0.8
+trust / loyalty damage,Vietnam Airlines,2,0.8
+trust / loyalty damage,Virgin Australia,2,0.8
+trust / loyalty damage,Aegean Airlines,1,0.4
+trust / loyalty damage,Aer Lingus,1,0.4
+trust / loyalty damage,Aeroflot Russian Airlines,1,0.4
+trust / loyalty damage,Aerolineas Argentinas,1,0.4
+trust / loyalty damage,Air Algerie,1,0.4
+trust / loyalty damage,Air Berlin,1,0.4
+trust / loyalty damage,Air India,1,0.4
+trust / loyalty damage,Air Mauritius,1,0.4
+trust / loyalty damage,Air Tahiti Nui,1,0.4
+trust / loyalty damage,Airasia Zest,1,0.4
+trust / loyalty damage,Alaska Airlines,1,0.4
+trust / loyalty damage,Canjet Airlines,1,0.4
+trust / loyalty damage,Cebu Pacific,1,0.4
+trust / loyalty damage,China Airlines,1,0.4
+trust / loyalty damage,Cityjet,1,0.4
+trust / loyalty damage,Condor Airlines,1,0.4
+trust / loyalty damage,Continental Airlines,1,0.4
+trust / loyalty damage,Csa Czech Airlines,1,0.4
+trust / loyalty damage,Darwin,1,0.4
+trust / loyalty damage,Dragonair,1,0.4
+trust / loyalty damage,Easyjet,1,0.4
+trust / loyalty damage,El Al Israel Airlines,1,0.4
+trust / loyalty damage,Free Bird,1,0.4
+trust / loyalty damage,Hainan Airlines,1,0.4
+trust / loyalty damage,Hawaiian Airlines,1,0.4
+trust / loyalty damage,Iberia,1,0.4
+trust / loyalty damage,Icelandair,1,0.4
+trust / loyalty damage,Iran Air,1,0.4
+trust / loyalty damage,Japan Airlines,1,0.4
+trust / loyalty damage,Jetstar Airways,1,0.4
+trust / loyalty damage,Karthago Airlines,1,0.4
+trust / loyalty damage,Kenya Airways,1,0.4
+trust / loyalty damage,Liat,1,0.4
+trust / loyalty damage,Lion Air,1,0.4
+trust / loyalty damage,Lot Polish Airlines,1,0.4
+trust / loyalty damage,Mokulele Airlines,1,0.4
+trust / loyalty damage,Olympic Air,1,0.4
+trust / loyalty damage,Oman Air,1,0.4
+trust / loyalty damage,Pegasus Airlines,1,0.4
+trust / loyalty damage,Philippine Airlines,1,0.4
+trust / loyalty damage,Porter Airlines,1,0.4
+trust / loyalty damage,Royal Jordanian Airlines,1,0.4
+trust / loyalty damage,Ryanair,1,0.4
+trust / loyalty damage,Sas Scandinavian Airlines,1,0.4
+trust / loyalty damage,Sata Air Azores,1,0.4
+trust / loyalty damage,Singapore Airlines,1,0.4
+trust / loyalty damage,Smartwings,1,0.4
+trust / loyalty damage,South African Airways,1,0.4
+trust / loyalty damage,Tam Airlines,1,0.4
+trust / loyalty damage,Thai Airways,1,0.4
+trust / loyalty damage,Thomson Airways,1,0.4
+trust / loyalty damage,Turkish Airlines,1,0.4
+trust / loyalty damage,Virgin Atlantic Airways,1,0.4

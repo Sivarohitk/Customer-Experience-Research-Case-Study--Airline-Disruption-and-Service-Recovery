@@ -1,0 +1,45 @@
+theme_a,theme_b,combination_label,count,share_of_reviews_pct,is_focus_combination
+cancellation stress,poor communication,cancellation stress + poor communication,348,0.83,True
+delay frustration,rebooking friction,delay frustration + rebooking friction,324,0.78,True
+refund difficulty,customer support responsiveness,refund difficulty + customer support responsiveness,42,0.1,True
+delay frustration,baggage problems,delay frustration + baggage problems,1600,3.83,False
+delay frustration,cancellation stress,delay frustration + cancellation stress,1190,2.85,False
+delay frustration,poor communication,delay frustration + poor communication,982,2.35,False
+delay frustration,refund difficulty,delay frustration + refund difficulty,624,1.49,False
+cancellation stress,baggage problems,cancellation stress + baggage problems,526,1.26,False
+cancellation stress,refund difficulty,cancellation stress + refund difficulty,426,1.02,False
+poor communication,baggage problems,poor communication + baggage problems,400,0.96,False
+delay frustration,pricing / compensation dissatisfaction,delay frustration + pricing / compensation dissatisfaction,333,0.8,False
+refund difficulty,baggage problems,refund difficulty + baggage problems,266,0.64,False
+cancellation stress,rebooking friction,cancellation stress + rebooking friction,244,0.58,False
+rebooking friction,baggage problems,rebooking friction + baggage problems,221,0.53,False
+refund difficulty,pricing / compensation dissatisfaction,refund difficulty + pricing / compensation dissatisfaction,220,0.53,False
+cancellation stress,customer support responsiveness,cancellation stress + customer support responsiveness,191,0.46,False
+cancellation stress,pricing / compensation dissatisfaction,cancellation stress + pricing / compensation dissatisfaction,171,0.41,False
+baggage problems,customer support responsiveness,baggage problems + customer support responsiveness,163,0.39,False
+refund difficulty,poor communication,refund difficulty + poor communication,162,0.39,False
+delay frustration,customer support responsiveness,delay frustration + customer support responsiveness,132,0.32,False
+poor communication,customer support responsiveness,poor communication + customer support responsiveness,125,0.3,False
+baggage problems,pricing / compensation dissatisfaction,baggage problems + pricing / compensation dissatisfaction,119,0.28,False
+refund difficulty,rebooking friction,refund difficulty + rebooking friction,99,0.24,False
+poor communication,digital / app / website issues,poor communication + digital / app / website issues,95,0.23,False
+delay frustration,trust / loyalty damage,delay frustration + trust / loyalty damage,76,0.18,False
+rebooking friction,poor communication,rebooking friction + poor communication,76,0.18,False
+delay frustration,digital / app / website issues,delay frustration + digital / app / website issues,66,0.16,False
+rebooking friction,customer support responsiveness,rebooking friction + customer support responsiveness,57,0.14,False
+poor communication,pricing / compensation dissatisfaction,poor communication + pricing / compensation dissatisfaction,56,0.13,False
+rebooking friction,pricing / compensation dissatisfaction,rebooking friction + pricing / compensation dissatisfaction,45,0.11,False
+cancellation stress,trust / loyalty damage,cancellation stress + trust / loyalty damage,44,0.11,False
+baggage problems,trust / loyalty damage,baggage problems + trust / loyalty damage,43,0.1,False
+rebooking friction,digital / app / website issues,rebooking friction + digital / app / website issues,42,0.1,False
+poor communication,trust / loyalty damage,poor communication + trust / loyalty damage,21,0.05,False
+baggage problems,digital / app / website issues,baggage problems + digital / app / website issues,16,0.04,False
+customer support responsiveness,pricing / compensation dissatisfaction,customer support responsiveness + pricing / compensation dissatisfaction,16,0.04,False
+refund difficulty,trust / loyalty damage,refund difficulty + trust / loyalty damage,16,0.04,False
+pricing / compensation dissatisfaction,trust / loyalty damage,pricing / compensation dissatisfaction + trust / loyalty damage,9,0.02,False
+customer support responsiveness,trust / loyalty damage,customer support responsiveness + trust / loyalty damage,6,0.01,False
+rebooking friction,trust / loyalty damage,rebooking friction + trust / loyalty damage,6,0.01,False
+cancellation stress,digital / app / website issues,cancellation stress + digital / app / website issues,3,0.01,False
+customer support responsiveness,digital / app / website issues,customer support responsiveness + digital / app / website issues,2,0.0,False
+refund difficulty,digital / app / website issues,refund difficulty + digital / app / website issues,2,0.0,False
+pricing / compensation dissatisfaction,digital / app / website issues,pricing / compensation dissatisfaction + digital / app / website issues,1,0.0,False

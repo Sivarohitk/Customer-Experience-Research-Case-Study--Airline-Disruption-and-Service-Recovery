@@ -1,0 +1,25 @@
+theme,recommendation,count,share_within_theme_pct
+baggage problems,no,3334,52.79
+baggage problems,yes,2982,47.21
+cancellation stress,no,2495,78.31
+cancellation stress,yes,691,21.69
+customer support responsiveness,no,385,73.33
+customer support responsiveness,yes,140,26.67
+delay frustration,no,5561,67.82
+delay frustration,yes,2639,32.18
+digital / app / website issues,no,147,84.48
+digital / app / website issues,yes,27,15.52
+poor communication,no,1587,69.57
+poor communication,yes,694,30.43
+pricing / compensation dissatisfaction,no,493,84.42
+pricing / compensation dissatisfaction,yes,91,15.58
+rebooking friction,no,643,78.8
+rebooking friction,yes,173,21.2
+refund difficulty,no,1192,77.86
+refund difficulty,yes,339,22.14
+staff helpfulness,yes,4308,75.74
+staff helpfulness,no,1380,24.26
+successful recovery experience,yes,111,76.55
+successful recovery experience,no,34,23.45
+trust / loyalty damage,no,248,98.8
+trust / loyalty damage,yes,3,1.2

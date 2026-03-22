@@ -1,0 +1,13 @@
+theme,description,count,share_of_reviews_pct,avg_rating
+delay frustration,"Frustration caused by long waits, rolling delays, missed connections, or extended time at the gate.",8200,19.62,4.43
+baggage problems,"Problems with lost, delayed, misrouted, or poorly tracked baggage.",6316,15.11,5.54
+staff helpfulness,"Helpful, empathetic, or professional staff behavior that shaped the customer experience.",5688,13.61,7.48
+cancellation stress,"Stress and disruption caused by cancellations, overnight stranding, and unclear next steps.",3186,7.62,3.74
+poor communication,"Lack of timely, accurate, or consistent updates during disruption and recovery.",2281,5.46,4.18
+refund difficulty,"Difficulty getting money back, understanding voucher policies, or securing reimbursement.",1531,3.66,3.65
+rebooking friction,"Friction in changing itineraries, standing by, or securing replacement seats after disruption.",816,1.95,3.29
+pricing / compensation dissatisfaction,"Dissatisfaction with vouchers, reimbursement, extra spend, or perceived unfair compensation.",584,1.4,3.1
+customer support responsiveness,"Responsiveness, delays, or friction in phone, chat, or email support channels.",525,1.26,3.56
+trust / loyalty damage,"Statements that the disruption damaged trust, repeat purchase intent, or brand loyalty.",251,0.6,1.83
+digital / app / website issues,"Problems with self-service digital tools such as apps, websites, portals, and kiosks.",174,0.42,2.19
+successful recovery experience,The airline ultimately resolved the disruption in a way the customer viewed positively.,145,0.35,6.55

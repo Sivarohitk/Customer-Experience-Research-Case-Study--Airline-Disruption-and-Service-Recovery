@@ -1,0 +1,14 @@
+review_id,airline,source,review_date,disruption_type,feedback_text,rating,route
+1,Delta,Demo,2025-07-05,delay,"Gate agents gave no updates during a four-hour delay and the app kept showing conflicting information.",2,PHX-ATL
+2,United,Demo,2025-07-11,cancellation,"My flight was cancelled after midnight and the rebooking line was impossible. I was stranded overnight with no hotel guidance.",1,DEN-EWR
+3,American,Demo,2025-08-02,baggage,"The bag never arrived and customer service bounced me between the baggage desk and phone support.",1,DFW-LAX
+4,Southwest,Demo,2025-08-14,rebooking,"Rebooking in the app was easy and the agent was helpful, but I still lost half a day.",3,PHX-LAS
+5,JetBlue,Demo,2025-08-20,refund,"The refund took weeks and the voucher policy was confusing.",2,JFK-MCO
+6,Alaska,Demo,2025-09-01,communication,"Clear text alerts helped during the delay, but baggage delivery was slow once I landed.",4,SEA-SFO
+7,Spirit,Demo,2025-09-15,cancellation,"No one could explain why the flight was cancelled and the only option was a refund request form.",1,LAS-ORD
+8,Frontier,Demo,2025-09-18,delay,"The departure kept moving every thirty minutes with no proactive communication from the airline.",1,PHX-DEN
+9,Delta,Demo,2025-10-03,rebooking,"I missed my connection and the standby process was confusing, though the kiosk eventually worked.",3,ATL-BOS
+10,United,Demo,2025-10-09,baggage,"Lost luggage was delivered two days later, but getting status updates was painful.",2,IAH-SAN
+11,American,Demo,2025-10-22,refund,"Customer support finally processed the refund and apologized, which helped.",4,CLT-MIA
+12,Southwest,Demo,2025-11-01,delay,"The crew was kind, but the five-hour delay and lack of meal vouchers made the experience frustrating.",2,BNA-PHX
+

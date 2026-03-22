@@ -1,0 +1,41 @@
+term,count,share_of_negative_reviews_pct,source
+delayed,4243,23.41,seeded_phrase_count
+delay,2634,14.53,seeded_phrase_count
+luggage,2208,12.18,seeded_phrase_count
+cancelled,1981,10.93,seeded_phrase_count
+baggage,1662,9.17,seeded_phrase_count
+customer service,1635,9.02,seeded_phrase_count
+hours late,623,3.44,seeded_phrase_count
+voucher,540,2.98,seeded_phrase_count
+flight was cancelled,515,2.84,seeded_phrase_count
+no explanation,504,2.78,seeded_phrase_count
+communication,498,2.75,seeded_phrase_count
+announcements,495,2.73,seeded_phrase_count
+website,477,2.63,seeded_phrase_count
+refund,449,2.48,seeded_phrase_count
+overnight,393,2.17,seeded_phrase_count
+compensation,361,1.99,seeded_phrase_count
+credit,280,1.54,seeded_phrase_count
+stranded,243,1.34,seeded_phrase_count
+canceled,237,1.31,seeded_phrase_count
+cancellation,217,1.2,seeded_phrase_count
+transferred,191,1.05,seeded_phrase_count
+rebook,187,1.03,seeded_phrase_count
+standby,153,0.84,seeded_phrase_count
+rebooking,145,0.8,seeded_phrase_count
+checked bag,138,0.76,seeded_phrase_count
+kiosk,124,0.68,seeded_phrase_count
+on hold,113,0.62,seeded_phrase_count
+carousel,112,0.62,seeded_phrase_count
+avoid this airline,108,0.6,seeded_phrase_count
+gate agent,106,0.58,seeded_phrase_count
+gate agents,97,0.54,seeded_phrase_count
+phone support,97,0.54,seeded_phrase_count
+meal voucher,81,0.45,seeded_phrase_count
+missed connection,74,0.41,seeded_phrase_count
+unclear,67,0.37,seeded_phrase_count
+conflicting information,59,0.33,seeded_phrase_count
+late departure,58,0.32,seeded_phrase_count
+seat assignment,54,0.3,seeded_phrase_count
+lost luggage,53,0.29,seeded_phrase_count
+long wait,52,0.29,seeded_phrase_count

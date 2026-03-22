@@ -1,0 +1,13 @@
+theme,review_count,avg_sentiment_score,negative_count,neutral_count,positive_count,negative_share_pct,most_common_sentiment
+trust / loyalty damage,251,-4.36,239,9,3,95.22,negative
+digital / app / website issues,174,-5.22,156,11,7,89.66,negative
+pricing / compensation dissatisfaction,584,-4.45,503,41,40,86.13,negative
+cancellation stress,3186,-5.57,2705,160,321,84.9,negative
+customer support responsiveness,525,-5.02,431,54,40,82.1,negative
+rebooking friction,816,-4.3,663,54,99,81.25,negative
+refund difficulty,1531,-4.04,1235,130,166,80.67,negative
+delay frustration,8200,-3.67,6193,1210,797,75.52,negative
+poor communication,2281,-3.45,1633,219,429,71.59,negative
+baggage problems,6316,-2.1,3591,1345,1380,56.86,negative
+successful recovery experience,145,1.04,37,20,88,25.52,positive
+staff helpfulness,5688,2.38,804,496,4388,14.14,positive

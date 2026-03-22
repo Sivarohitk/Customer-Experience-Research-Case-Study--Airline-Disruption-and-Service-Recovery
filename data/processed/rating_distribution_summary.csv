@@ -1,0 +1,11 @@
+rating,rating_bucket,count,share_of_rated_reviews_pct
+1.0,low,5533,14.85
+2.0,low,3137,8.42
+3.0,medium,2434,6.53
+4.0,high,1865,5.01
+5.0,high,2552,6.85
+6.0,high,1813,4.87
+7.0,high,3335,8.95
+8.0,high,5327,14.3
+9.0,high,5407,14.51
+10.0,high,5858,15.72
